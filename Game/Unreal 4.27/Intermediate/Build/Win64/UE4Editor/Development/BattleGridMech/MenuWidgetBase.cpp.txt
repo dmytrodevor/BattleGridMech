@@ -1,5 +1,5 @@
-C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\Definitions.BattleGridMech.h
-C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Source\BattleGridMech\Private\MenuWidgetBase.h
+C:\Program Files\Epic Games\UE_4.27\BattleGridMechd\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\Definitions.BattleGridMech.h
+C:\Program Files\Epic Games\UE_4.27\BattleGridMechd\Game\Unreal 4.27\Source\BattleGridMech\Private\MenuWidgetBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
@@ -99,7 +99,7 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
-C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Inc\BattleGridMech\MenuWidgetBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\BattleGridMechd\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Inc\BattleGridMech\MenuWidgetBase.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Button.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/ContentWidget.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/PanelWidget.h

@@ -18,65 +18,9 @@ void EmptyLinkFunctionForGeneratedCodeTabConsoleCommandBase() {}
 	UMG_API UClass* Z_Construct_UClass_UUserWidget();
 	UPackage* Z_Construct_UPackage__Script_BattleGridMech();
 	BATTLEGRIDMECH_API UClass* Z_Construct_UClass_UButtonConsoleCommandBase_NoRegister();
-	UMG_API UClass* Z_Construct_UClass_UEditableText_NoRegister();
 // End Cross Module References
-	DEFINE_FUNCTION(UTabConsoleCommandBase::execOnInputCommited)
-	{
-		P_GET_PROPERTY_REF(FTextProperty,Z_Param_Out_TextCommited);
-		P_FINISH;
-		P_NATIVE_BEGIN;
-		P_THIS->OnInputCommited(Z_Param_Out_TextCommited);
-		P_NATIVE_END;
-	}
 	void UTabConsoleCommandBase::StaticRegisterNativesUTabConsoleCommandBase()
 	{
-		UClass* Class = UTabConsoleCommandBase::StaticClass();
-		static const FNameNativePtrPair Funcs[] = {
-			{ "OnInputCommited", &UTabConsoleCommandBase::execOnInputCommited },
-		};
-		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
-	}
-	struct Z_Construct_UFunction_UTabConsoleCommandBase_OnInputCommited_Statics
-	{
-		struct TabConsoleCommandBase_eventOnInputCommited_Parms
-		{
-			FText TextCommited;
-		};
-#if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_TextCommited_MetaData[];
-#endif
-		static const UE4CodeGen_Private::FTextPropertyParams NewProp_TextCommited;
-		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
-#if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
-#endif
-		static const UE4CodeGen_Private::FFunctionParams FuncParams;
-	};
-#if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UTabConsoleCommandBase_OnInputCommited_Statics::NewProp_TextCommited_MetaData[] = {
-		{ "NativeConst", "" },
-	};
-#endif
-	const UE4CodeGen_Private::FTextPropertyParams Z_Construct_UFunction_UTabConsoleCommandBase_OnInputCommited_Statics::NewProp_TextCommited = { "TextCommited", nullptr, (EPropertyFlags)0x0010000008000182, UE4CodeGen_Private::EPropertyGenFlags::Text, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(TabConsoleCommandBase_eventOnInputCommited_Parms, TextCommited), METADATA_PARAMS(Z_Construct_UFunction_UTabConsoleCommandBase_OnInputCommited_Statics::NewProp_TextCommited_MetaData, UE_ARRAY_COUNT(Z_Construct_UFunction_UTabConsoleCommandBase_OnInputCommited_Statics::NewProp_TextCommited_MetaData)) };
-	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_UTabConsoleCommandBase_OnInputCommited_Statics::PropPointers[] = {
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UTabConsoleCommandBase_OnInputCommited_Statics::NewProp_TextCommited,
-	};
-#if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UTabConsoleCommandBase_OnInputCommited_Statics::Function_MetaDataParams[] = {
-		{ "Comment", "// Declare a function to handle the OnClick event\n" },
-		{ "ModuleRelativePath", "Private/TabConsoleCommandBase.h" },
-		{ "ToolTip", "Declare a function to handle the OnClick event" },
-	};
-#endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UTabConsoleCommandBase_OnInputCommited_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UTabConsoleCommandBase, nullptr, "OnInputCommited", nullptr, nullptr, sizeof(TabConsoleCommandBase_eventOnInputCommited_Parms), Z_Construct_UFunction_UTabConsoleCommandBase_OnInputCommited_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UTabConsoleCommandBase_OnInputCommited_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00440401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UTabConsoleCommandBase_OnInputCommited_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UTabConsoleCommandBase_OnInputCommited_Statics::Function_MetaDataParams)) };
-	UFunction* Z_Construct_UFunction_UTabConsoleCommandBase_OnInputCommited()
-	{
-		static UFunction* ReturnFunction = nullptr;
-		if (!ReturnFunction)
-		{
-			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_UTabConsoleCommandBase_OnInputCommited_Statics::FuncParams);
-		}
-		return ReturnFunction;
 	}
 	UClass* Z_Construct_UClass_UTabConsoleCommandBase_NoRegister()
 	{
@@ -85,7 +29,6 @@ void EmptyLinkFunctionForGeneratedCodeTabConsoleCommandBase() {}
 	struct Z_Construct_UClass_UTabConsoleCommandBase_Statics
 	{
 		static UObject* (*const DependentSingletons[])();
-		static const FClassFunctionLinkInfo FuncInfo[];
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
@@ -117,10 +60,6 @@ void EmptyLinkFunctionForGeneratedCodeTabConsoleCommandBase() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_ButtonConsoleCommand7_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_ButtonConsoleCommand7;
-#if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_EditableText1_MetaData[];
-#endif
-		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_EditableText1;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -128,9 +67,6 @@ void EmptyLinkFunctionForGeneratedCodeTabConsoleCommandBase() {}
 	UObject* (*const Z_Construct_UClass_UTabConsoleCommandBase_Statics::DependentSingletons[])() = {
 		(UObject* (*)())Z_Construct_UClass_UUserWidget,
 		(UObject* (*)())Z_Construct_UPackage__Script_BattleGridMech,
-	};
-	const FClassFunctionLinkInfo Z_Construct_UClass_UTabConsoleCommandBase_Statics::FuncInfo[] = {
-		{ &Z_Construct_UFunction_UTabConsoleCommandBase_OnInputCommited, "OnInputCommited" }, // 936584432
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UTabConsoleCommandBase_Statics::Class_MetaDataParams[] = {
@@ -216,17 +152,6 @@ void EmptyLinkFunctionForGeneratedCodeTabConsoleCommandBase() {}
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_UTabConsoleCommandBase_Statics::NewProp_ButtonConsoleCommand7 = { "ButtonConsoleCommand7", nullptr, (EPropertyFlags)0x002008000008000c, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UTabConsoleCommandBase, ButtonConsoleCommand7), Z_Construct_UClass_UButtonConsoleCommandBase_NoRegister, METADATA_PARAMS(Z_Construct_UClass_UTabConsoleCommandBase_Statics::NewProp_ButtonConsoleCommand7_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UTabConsoleCommandBase_Statics::NewProp_ButtonConsoleCommand7_MetaData)) };
-#if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UTabConsoleCommandBase_Statics::NewProp_EditableText1_MetaData[] = {
-		{ "BindWidget", "" },
-		{ "Category", "TabConsoleCommandBase" },
-		{ "Comment", "// Bind the EditableText1 variable to the Button widget in the Blueprint Widget\n" },
-		{ "EditInline", "true" },
-		{ "ModuleRelativePath", "Private/TabConsoleCommandBase.h" },
-		{ "ToolTip", "Bind the EditableText1 variable to the Button widget in the Blueprint Widget" },
-	};
-#endif
-	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_UTabConsoleCommandBase_Statics::NewProp_EditableText1 = { "EditableText1", nullptr, (EPropertyFlags)0x002008000008000c, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UTabConsoleCommandBase, EditableText1), Z_Construct_UClass_UEditableText_NoRegister, METADATA_PARAMS(Z_Construct_UClass_UTabConsoleCommandBase_Statics::NewProp_EditableText1_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UTabConsoleCommandBase_Statics::NewProp_EditableText1_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UTabConsoleCommandBase_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UTabConsoleCommandBase_Statics::NewProp_ButtonConsoleCommand1,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UTabConsoleCommandBase_Statics::NewProp_ButtonConsoleCommand2,
@@ -235,7 +160,6 @@ void EmptyLinkFunctionForGeneratedCodeTabConsoleCommandBase() {}
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UTabConsoleCommandBase_Statics::NewProp_ButtonConsoleCommand5,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UTabConsoleCommandBase_Statics::NewProp_ButtonConsoleCommand6,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UTabConsoleCommandBase_Statics::NewProp_ButtonConsoleCommand7,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UTabConsoleCommandBase_Statics::NewProp_EditableText1,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_UTabConsoleCommandBase_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<UTabConsoleCommandBase>::IsAbstract,
@@ -245,11 +169,11 @@ void EmptyLinkFunctionForGeneratedCodeTabConsoleCommandBase() {}
 		nullptr,
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
-		FuncInfo,
+		nullptr,
 		Z_Construct_UClass_UTabConsoleCommandBase_Statics::PropPointers,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
-		UE_ARRAY_COUNT(FuncInfo),
+		0,
 		UE_ARRAY_COUNT(Z_Construct_UClass_UTabConsoleCommandBase_Statics::PropPointers),
 		0,
 		0x00A010A0u,
@@ -264,7 +188,7 @@ void EmptyLinkFunctionForGeneratedCodeTabConsoleCommandBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UTabConsoleCommandBase, 1144661302);
+	IMPLEMENT_CLASS(UTabConsoleCommandBase, 482534513);
 	template<> BATTLEGRIDMECH_API UClass* StaticClass<UTabConsoleCommandBase>()
 	{
 		return UTabConsoleCommandBase::StaticClass();

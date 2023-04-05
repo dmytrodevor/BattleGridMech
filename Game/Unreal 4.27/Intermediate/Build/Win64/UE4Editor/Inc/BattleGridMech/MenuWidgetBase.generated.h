@@ -13,8 +13,8 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define BATTLEGRIDMECH_MenuWidgetBase_generated_h
 
-#define BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_SPARSE_DATA
-#define BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_RPC_WRAPPERS \
+#define BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_SPARSE_DATA
+#define BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSetActiveTabBackground); \
 	DECLARE_FUNCTION(execCreateButtonsArray); \
@@ -23,7 +23,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	DECLARE_FUNCTION(execOnButtonTab1Click);
 
 
-#define BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSetActiveTabBackground); \
 	DECLARE_FUNCTION(execCreateButtonsArray); \
@@ -32,7 +32,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	DECLARE_FUNCTION(execOnButtonTab1Click);
 
 
-#define BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_INCLASS_NO_PURE_DECLS \
+#define BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUMenuWidgetBase(); \
 	friend struct Z_Construct_UClass_UMenuWidgetBase_Statics; \
@@ -41,7 +41,7 @@ public: \
 	DECLARE_SERIALIZER(UMenuWidgetBase)
 
 
-#define BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_INCLASS \
+#define BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesUMenuWidgetBase(); \
 	friend struct Z_Construct_UClass_UMenuWidgetBase_Statics; \
@@ -50,7 +50,7 @@ public: \
 	DECLARE_SERIALIZER(UMenuWidgetBase)
 
 
-#define BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_STANDARD_CONSTRUCTORS \
+#define BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UMenuWidgetBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMenuWidgetBase) \
@@ -63,7 +63,7 @@ private: \
 public:
 
 
-#define BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_ENHANCED_CONSTRUCTORS \
+#define BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UMenuWidgetBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -76,7 +76,7 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMenuWidgetBase)
 
 
-#define BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_PRIVATE_PROPERTY_OFFSET \
+#define BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__ButtonTab1() { return STRUCT_OFFSET(UMenuWidgetBase, ButtonTab1); } \
 	FORCEINLINE static uint32 __PPO__ButtonTab2() { return STRUCT_OFFSET(UMenuWidgetBase, ButtonTab2); } \
 	FORCEINLINE static uint32 __PPO__TextTab1() { return STRUCT_OFFSET(UMenuWidgetBase, TextTab1); } \
@@ -87,27 +87,27 @@ public: \
 	FORCEINLINE static uint32 __PPO__DisableTabBackgroundColor() { return STRUCT_OFFSET(UMenuWidgetBase, DisableTabBackgroundColor); }
 
 
-#define BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_12_PROLOG
-#define BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_GENERATED_BODY_LEGACY \
+#define BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_12_PROLOG
+#define BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_SPARSE_DATA \
-	BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_RPC_WRAPPERS \
-	BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_INCLASS \
-	BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_STANDARD_CONSTRUCTORS \
+	BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_SPARSE_DATA \
+	BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_RPC_WRAPPERS \
+	BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_INCLASS \
+	BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_GENERATED_BODY \
+#define BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_SPARSE_DATA \
-	BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_INCLASS_NO_PURE_DECLS \
-	BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_ENHANCED_CONSTRUCTORS \
+	BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_SPARSE_DATA \
+	BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_INCLASS_NO_PURE_DECLS \
+	BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -115,7 +115,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> BATTLEGRIDMECH_API UClass* StaticClass<class UMenuWidgetBase>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID BattleGridMech_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h
+#define CURRENT_FILE_ID BattleGridMechd_Game_Unreal_4_27_Source_BattleGridMech_Private_MenuWidgetBase_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

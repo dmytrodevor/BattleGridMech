@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeBattleGridMech_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x986BADE9,
+				0x654F1604,
 				0x6477CF91,
 				METADATA_PARAMS(nullptr, 0)
 			};
