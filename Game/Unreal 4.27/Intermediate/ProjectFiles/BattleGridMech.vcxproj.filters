@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\BattleGridMech.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{286A0AEE-0283-4CFC-AEF9-D3E6E0A84912}</UniqueIdentifier>
+      <UniqueIdentifier>{C8775D17-743F-48AB-ABF5-B587065FA6A3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BattleGridMech.Target.cs">
       <Filter>Source</Filter>
@@ -14,7 +14,7 @@
     <None Include="..\..\.gitattributes" />
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{F601A05D-2923-471B-9CA5-C46D4D458CFC}</UniqueIdentifier>
+      <UniqueIdentifier>{6287CE3A-8480-419E-BBF0-9B115F583002}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -29,7 +29,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\BattleGridMech">
-      <UniqueIdentifier>{88FF7748-2D7F-4C95-B347-6A86FB9B1206}</UniqueIdentifier>
+      <UniqueIdentifier>{A7CA0746-D4E2-43CC-A4DC-6B321327BB29}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BattleGridMech\BattleGridMech.Build.cs">
       <Filter>Source\BattleGridMech</Filter>
@@ -47,7 +47,7 @@
       <Filter>Source\BattleGridMech</Filter>
     </ClInclude>
     <Filter Include="Source\BattleGridMech\Private">
-      <UniqueIdentifier>{F3F599FE-F11B-4D8E-ACF3-BA942822E422}</UniqueIdentifier>
+      <UniqueIdentifier>{F5D6FA88-9461-489E-886A-68BB1DBC5059}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\BattleGridMech\Private\ButtonConsoleCommandBase.cpp">
       <Filter>Source\BattleGridMech\Private</Filter>
