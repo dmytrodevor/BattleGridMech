@@ -1,0 +1,5 @@
+C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\Definitions.BattleGridMech.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Source\BattleGridMech/Private/PawnBase.h
+C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Inc\BattleGridMech\PawnBase.generated.h

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Program Files\\Epic Games\\UE_4.27\\BattleGridMech\\Game\\Unreal 4.27\\Source\\BattleGridMech\\BattleGridMech.Build.cs",
+		"C:\\Program Files\\Epic Games\\UE_4.27\\BattleGridMech\\Game\\Unreal 4.27\\Source\\BattleGridMech.Target.cs",
+		"C:\\Program Files\\Epic Games\\UE_4.27\\BattleGridMech\\Game\\Unreal 4.27\\Source\\BattleGridMechEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

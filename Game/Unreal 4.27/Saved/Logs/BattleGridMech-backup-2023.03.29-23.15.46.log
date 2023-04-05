@@ -1,0 +1,1800 @@
+﻿Log file open, 03/29/23 22:24:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BattleGridMech
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185333
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600G with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.29-20.24.15:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.03.29-20.24.15:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.29-20.24.15:127][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.29-20.24.15:131][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.29-20.24.15:131][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.29-20.24.15:131][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.29-20.24.15:131][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.03.29-20.24.15:131][  0]LogHAL: Display: Platform has ~ 16 GB [16483504128 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.29-20.24.15:132][  0]LogInit: Going up to parent DeviceProfile []
+[2023.03.29-20.24.15:132][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.29-20.24.15:132][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.29-20.24.15:133][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.03.29-20.24.15:133][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.03.29-20.24.15:133][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.03.29-20.24.15:133][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.29-20.24.15:133][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Editor.ini]
+[2023.03.29-20.24.15:133][  0]LogInit: Computer: DESKTOP-ID3KDQ6
+[2023.03.29-20.24.15:133][  0]LogInit: User: rulen
+[2023.03.29-20.24.15:133][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.03.29-20.24.15:133][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.29-20.24.15:133][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2023.03.29-20.24.15:133][  0]LogMemory: Platform Memory Stats for Windows
+[2023.03.29-20.24.15:133][  0]LogMemory: Process Physical Memory: 144.54 MB used, 144.54 MB peak
+[2023.03.29-20.24.15:133][  0]LogMemory: Process Virtual Memory: 127.79 MB used, 127.79 MB peak
+[2023.03.29-20.24.15:133][  0]LogMemory: Physical Memory: 7736.82 MB used,  7983.08 MB free, 15719.89 MB total
+[2023.03.29-20.24.15:133][  0]LogMemory: Virtual Memory: 134208720.00 MB used,  9011.29 MB free, 134217728.00 MB total
+[2023.03.29-20.24.15:136][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.29-20.24.15:150][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.03.29-20.24.15:151][  0]LogInit: Using OS detected language (en-US).
+[2023.03.29-20.24.15:151][  0]LogInit: Using OS detected locale (en-US).
+[2023.03.29-20.24.15:153][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.03.29-20.24.15:306][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.29-20.24.15:313][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.29-20.24.15:322][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.29-20.24.15:322][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.29-20.24.15:423][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.03.29-20.24.15:425][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.03.29-20.24.15:425][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.03.29-20.24.15:425][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.03.29-20.24.15:425][  0]LogD3D11RHI: D3D11 adapters:
+[2023.03.29-20.24.15:456][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2023.03.29-20.24.15:456][  0]LogD3D11RHI:       496/0/7859 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2023.03.29-20.24.15:457][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.03.29-20.24.15:458][  0]LogD3D11RHI:       0/0/7859 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.03.29-20.24.15:458][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.03.29-20.24.15:458][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2023.03.29-20.24.15:458][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.03.29-20.24.15:458][  0]LogD3D11RHI:     DeviceId    : 1638
+[2023.03.29-20.24.15:458][  0]LogD3D11RHI:     SubSysId    : d0001458
+[2023.03.29-20.24.15:458][  0]LogD3D11RHI:     Revision    : 00c9
+[2023.03.29-20.24.15:458][  0]LogD3D11RHI:     DedicatedVideoMemory : 520273920 bytes
+[2023.03.29-20.24.15:458][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.29-20.24.15:458][  0]LogD3D11RHI:     SharedSystemMemory : 8241752064 bytes
+[2023.03.29-20.24.15:458][  0]LogD3D11RHI:     AdapterLuid : 0 39674
+[2023.03.29-20.24.15:463][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.03.29-20.24.15:463][  0]LogD3D11RHI:     GPU DeviceId: 0x1638 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.29-20.24.15:463][  0]LogWindows: EnumDisplayDevices:
+[2023.03.29-20.24.15:463][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2023.03.29-20.24.15:463][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.03.29-20.24.15:464][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.03.29-20.24.15:464][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2023.03.29-20.24.15:464][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) Graphics
+[2023.03.29-20.24.15:464][  0]LogD3D11RHI:   Driver Version: Adrenalin 21.30.14 (internal:30.0.13014.8, unified:30.0.13014.8)
+[2023.03.29-20.24.15:464][  0]LogD3D11RHI:      Driver Date: 8-26-2021
+[2023.03.29-20.24.15:464][  0]LogRHI: Texture pool is 5377 MB (70% of 7682 MB)
+[2023.03.29-20.24.15:469][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2023.03.29-20.24.15:469][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2023.03.29-20.24.15:469][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.03.29-20.24.15:469][  0]LogD3D11RHI:     DeviceId    : 1638
+[2023.03.29-20.24.15:469][  0]LogD3D11RHI:     SubSysId    : d0001458
+[2023.03.29-20.24.15:469][  0]LogD3D11RHI:     Revision    : 00c9
+[2023.03.29-20.24.15:469][  0]LogD3D11RHI:     DedicatedVideoMemory : 520273920 bytes
+[2023.03.29-20.24.15:469][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.29-20.24.15:470][  0]LogD3D11RHI:     SharedSystemMemory : 8241752064 bytes
+[2023.03.29-20.24.15:470][  0]LogD3D11RHI:     AdapterLuid : 0 39674
+[2023.03.29-20.24.15:495][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2023.03.29-20.24.15:495][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.03.29-20.24.15:495][  0]LogD3D11RHI: Async texture creation enabled
+[2023.03.29-20.24.15:495][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.03.29-20.24.15:507][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2023.03.29-20.24.15:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.03.29-20.24.15:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.29-20.24.15:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.29-20.24.15:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.29-20.24.15:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.29-20.24.15:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.29-20.24.15:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.29-20.24.15:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.29-20.24.15:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.29-20.24.15:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.29-20.24.15:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.29-20.24.15:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.29-20.24.15:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.29-20.24.15:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.29-20.24.15:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.03.29-20.24.15:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.29-20.24.15:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.29-20.24.15:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.03.29-20.24.15:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.03.29-20.24.15:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.03.29-20.24.15:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.03.29-20.24.15:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.03.29-20.24.15:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.03.29-20.24.15:802][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.03.29-20.24.15:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.03.29-20.24.15:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.03.29-20.24.15:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.29-20.24.15:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.29-20.24.15:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.03.29-20.24.15:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.29-20.24.15:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.29-20.24.15:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.29-20.24.15:831][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.03.29-20.24.15:836][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.29-20.24.15:857][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.03.29-20.24.15:877][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.29-20.24.15:877][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../BattleGridMech/Game/Unreal 4.27/Intermediate/Shaders/WorkingDirectory/15204/).
+[2023.03.29-20.24.15:877][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rulen/AppData/Local/Temp/UnrealShaderWorkingDir/9E18969941241CE0A88B4A9F248D5E90/'.
+[2023.03.29-20.24.15:877][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.29-20.24.15:877][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.03.29-20.24.15:877][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.03.29-20.24.16:425][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.03.29-20.24.16:465][  0]LogDerivedDataCache: Loaded boot cache 0.04s 94MB C:/Users/rulen/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.29-20.24.16:465][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rulen/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.03.29-20.24.16:466][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../BattleGridMech/Game/Unreal 4.27/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.29-20.24.16:466][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.03.29-20.24.16:466][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../BattleGridMech/Game/Unreal 4.27/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.29-20.24.16:466][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.03.29-20.24.16:480][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.03.29-20.24.16:480][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.29-20.24.16:480][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.03.29-20.24.16:486][  0]LogDerivedDataCache: Speed tests for C:/Users/rulen/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.03.29-20.24.16:486][  0]LogDerivedDataCache: Display: Performance to C:/Users/rulen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1277.75MBs, RandomWriteSpeed=205.97MBs. Assigned SpeedClass 'Local'
+[2023.03.29-20.24.16:486][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rulen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.29-20.24.16:487][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.29-20.24.16:487][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.03.29-20.24.16:522][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.29-20.24.16:523][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.29-20.24.16:538][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2023.03.29-20.24.16:735][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.29-20.24.16:735][  0]LogInit: Active device profile: [000002ADC9B60E00][000002ADC3CEAAC0 49] Windows
+[2023.03.29-20.24.16:735][  0]LogInit: Profiles: [000002ADC9B60E00][000002ADC3CEAAC0 49] Windows, [000002ADC9B1A300][000002ADC3B48C40 49] WindowsNoEditor, [000002ADC9B61D00][000002ADC3C9CDC0 49] WindowsServer, [000002ADC9B1B100][000002ADC3CA0F40 49] WindowsClient, [000002ADC9B62A00][000002ADC3CA50C0 49] IOS, [000002ADC9B1B700][000002ADC3CAD240 49] iPadAir, [000002ADC9B61500][000002ADC3CB13C0 49] iPadAir2, [000002ADC9A85300][000002ADC15B9680 49] IPadPro, [000002ADC9A85400][000002ADC15B56C0 49] iPadAir3, [000002ADC9B18C00][000002ADC15BD840 49] iPadAir4, [000002ADC9A86000][000002ADC3B4D9C0 49] iPadMini2, [000002ADC9B1AF00][000002ADC3B51B40 49] iPadMini3, [000002ADC9A86A00][000002ADC3B54140 49] iPadMini4, [000002ADC9B18F00][000002ADC3CB42C0 49] iPadMini5, [000002ADC9AC4B00][000002ADC3CEE540 49] iPhone6, [000002ADC9AC4C00][000002ADC3CA8580 49] iPodTouch6, [000002ADC9B62900][000002ADC3B587C0 49] iPhone7, [000002ADC9B60F00][000002ADC3C98800 49] iPodTouch7, [000002ADC9A85200][000002ADC3B5C940 49] iPhone5S, [000002ADC9B62C00][000002ADC3B64AC0 49] iPhone6Plus, [000002ADC9A87D00][000002ADC3B68C40 49] iPhone6S, [000002ADC9A84100][000002ADC158CDC0 49] iPhone6SPlus, [000002ADC9AC7F00][000002ADC1590F40 49] iPhone7Plus, [000002ADC9A86200][000002ADC15950C0 49] iPhoneSE, [000002ADC9AC6800][000002ADC1599240 49] iPhone8, [000002ADC9A86500][000002ADC159D3C0 49] iPhone8Plus, [000002ADC9AC7900][000002ADC15A1540 49] iPhoneX, [000002ADC9A86400][000002ADC15A56C0 49] iPhoneXS, [000002ADC9AC4E00][000002ADC15A9840 49] iPhoneXSMax, [000002ADC9B61800][000002ADC15AD9C0 49] iPhoneXR, [000002ADC9AC5600][000002ADC15B1B40 49] iPhone11, [000002ADC9B61A00][000002ADC8D5E140 49] iPhone11Pro, [000002ADC9AC5800][000002ADC8D622C0 49] iPhone11ProMax, [000002ADC9B61100][000002ADC8D66440 49] iPhoneSE2, [000002ADC9AC7A00][000002ADC8D6A5C0 49] iPhone12Mini, [000002ADC9B60B00][000002ADC8D6E740 49] iPhone12, [000002ADC9AC5C00][000002ADC3B60880 49] iPhone12Pro, [000002ADC9B61000][000002ADC8D729C0 49] iPhone12ProMax, [000002ADC9AC7600][000002ADC8D76B00 49] iPadPro105, [000002ADC9B63800][000002ADC8D7EC80 49] iPadPro129, [000002ADC9AC4300][000002ADC8D82E00 49] iPadPro97, [000002ADC9B61400][000002ADC8D86F80 49] iPadPro2_129, [000002ADC9AC5300][000002ADC8D8B100 49] iPad5, [000002ADC9B63A00][000002ADC3AE9280 49] iPad6, [000002ADC9AC7C00][000002ADC3AED400 49] iPad7, [000002ADC9B63200][000002ADC3AF1580 49] iPad8, [000002ADC9AC7200][000002ADC3AF5700 49] iPadPro11, [000002ADC9B62F00][000002ADC3AF9880 49] iPadPro2_11, [000002ADC9AC6200][000002ADC3AFDA00 49] iPadPro3_129, [000002ADC9B60700][000002ADC3B01B80 49] iPadPro4_129, [000002ADC9AC5000][000002ADC3B04180 49] AppleTV, [000002ADC9B63100][000002ADC3C70300 49] AppleTV4K, [000002ADC9AC6100][000002ADC3C74480 49] TVOS, [000002ADC9B62100][000002ADC3C78600 49] Mac, [000002ADC9AC7500][000002ADC3C7C780 49] MacClient, [000002ADC9B63B00][000002ADC3C80900 49] MacNoEditor, [000002ADC9AC4D00][000002ADC8D7AA40 49] MacServer, [000002ADC9B62E00][000002ADC3C84B80 49] Linux, [000002ADC9AC5F00][000002ADC3C88CC0 49] LinuxAArch64, [000002ADC9B60A00][000002ADC3C90E40 49] LinuxNoEditor, [000002ADC9AC7000][000002ADC3C94FC0 49] LinuxAArch64NoEditor, [000002ADC9B63300][000002ADC1553140 49] LinuxClient, [000002ADC9AC6700][000002ADC15572C0 49] LinuxAArch64Client, [000002ADC9B61B00][000002ADC155B440 49] LinuxServer, [000002ADC9AC4400][000002ADC155F5C0 49] LinuxAArch64Server, [000002ADC9B61C00][000002ADC1563740 49] Android, [000002ADC9AC5400][000002ADC15678C0 49] Android_Low, [000002ADC9B61E00][000002ADC156BA40 49] Android_Mid, [000002ADC9AC6900][000002ADC156FBC0 49] Android_High, [000002ADC9B62000][000002ADC15721C0 49] Android_Default, [000002ADC9AC7100][000002ADC1576340 49] Android_Adreno4xx, [000002ADC9B62200][000002ADC157A4C0 49] Android_Adreno5xx_Low, [000002ADC9AC7D00][000002ADC157E640 49] Android_Adreno5xx, [000002ADC9B60200][000002ADC15827C0 49] Android_Adreno6xx, [000002ADC9AC5700][000002ADC1586940 49] Android_Adreno6xx_Vulkan, [000002ADC9B62700][000002ADC8DF8AC0 49] Android_Mali_T6xx, [000002ADC9A85700][000002ADC3C8CC00 49] Android_Mali_T7xx, [000002ADC9B1B000][000002ADC8DFCD40 49] Android_Mali_T8xx, [000002ADC9A87E00][000002ADC8E00E80 49] Android_Mali_G71, [000002ADC9B1BB00][000002ADC8E04FC0 49] Android_Mali_G72, [000002ADC9A87A00][000002ADC8E0D140 49] Android_Mali_G72_Vulkan, [000002ADC9B1B800][000002ADC8E112C0 49] Android_Mali_G76, [000002ADC9A85B00][000002ADC8E15440 49] Android_Mali_G76_Vulkan, [000002ADC9B1A200][000002ADC8E195C0 49] Android_Mali_G77, [000002ADC9A87600][000002ADC8E1D740 49] Android_Mali_G77_Vulkan, [000002ADC9B19F00][000002ADC8E218C0 49] Android_Mali_G78, [000002ADC9A85000][000002ADC8E25A40 49] Android_Mali_G78_Vulkan, [000002ADC9B18500][000002ADC8E29BC0 49] Android_Mali_G710, [000002ADC9A85600][000002ADC8E2C1C0 49] Android_Mali_G710_Vulkan, [000002ADC9B1A400][000002ADC8E30340 49] Android_Vulkan_SM5, [000002ADC9A85A00][000002ADC8E344C0 49] Android_PowerVR_G6xxx, [000002ADC9B1AE00][000002ADC8E38640 49] Android_PowerVR_GT7xxx, [000002ADC9A87300][000002ADC8E3C7C0 49] Android_PowerVR_GE8xxx, [000002ADC9B19100][000002ADC8E40940 49] Android_PowerVR_GM9xxx, [000002ADC9A85F00][000002ADC8E44AC0 49] Android_PowerVR_GM9xxx_Vulkan, [000002ADC9B19500][000002ADC8E48C40 49] Android_TegraK1, [000002ADC9A87B00][000002ADC8E08D80 49] Android_Unknown_Vulkan, [000002ADC9B18D00][000002ADC8E4CEC0 49] Lumin, [000002ADC9A84600][000002ADC8E51000 49] Lumin_Desktop, [000002ADC9AC7300][000002ADC8E55140 49] HoloLens, 
+[2023.03.29-20.24.16:825][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.29-20.24.16:825][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.29-20.24.16:825][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.29-20.24.16:825][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.29-20.24.16:825][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.29-20.24.16:835][  0]LogNetVersion: BattleGridMech 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3792557966)
+[2023.03.29-20.24.17:098][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.03.29-20.24.17:133][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.03.29-20.24.17:138][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.03.29-20.24.17:138][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.03.29-20.24.17:138][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.29-20.24.17:384][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 1B89F6684656937EAAB800BF5559005E | Instance: 7D5ED2CD46960010FFE270B4A06193ED (DESKTOP-ID3KDQ6-15204).
+[2023.03.29-20.24.17:410][  0]LogPython: Using Python 3.7.7
+[2023.03.29-20.24.17:825][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.29-20.24.17:830][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.29-20.24.17:987][  0]SourceControl: Source control is disabled
+[2023.03.29-20.24.18:311][  0]LogUProjectInfo: Found projects:
+[2023.03.29-20.24.18:434][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.29-20.24.18:455][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.29-20.24.18:471][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.29-20.24.18:471][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.29-20.24.18:559][  0]LogCollectionManager: Loaded 0 collections in 0.001312 seconds
+[2023.03.29-20.24.18:579][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/Saved/Collections/' took 0.00s
+[2023.03.29-20.24.18:579][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/Content/Developers/rulen/Collections/' took 0.00s
+[2023.03.29-20.24.18:579][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/Content/Collections/' took 0.00s
+[2023.03.29-20.24.18:579][  0]LogOcInput: OculusInput pre-init called
+[2023.03.29-20.24.18:745][  0]LogEngine: Initializing Engine...
+[2023.03.29-20.24.18:746][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.03.29-20.24.18:747][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.03.29-20.24.18:747][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.03.29-20.24.18:747][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.03.29-20.24.18:831][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.29-20.24.18:838][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.29-20.24.18:844][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.29-20.24.18:847][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.29-20.24.18:847][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.29-20.24.18:847][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.29-20.24.18:847][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.29-20.24.18:847][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.29-20.24.18:847][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.29-20.24.18:847][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.29-20.24.18:848][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.29-20.24.18:848][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.29-20.24.18:848][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.29-20.24.18:848][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.29-20.24.18:848][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.29-20.24.18:848][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.29-20.24.18:848][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.29-20.24.18:848][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.29-20.24.18:848][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.29-20.24.18:855][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.29-20.24.18:855][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.03.29-20.24.18:872][  0]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.03.29-20.24.18:873][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.29-20.24.18:875][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.29-20.24.18:875][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.29-20.24.18:876][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.29-20.24.18:876][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.29-20.24.18:876][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.29-20.24.18:876][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.29-20.24.18:876][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.29-20.24.18:876][  0]LogInit: FAudioDevice initialized.
+[2023.03.29-20.24.18:876][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.29-20.24.18:876][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.29-20.24.18:919][  0]LogDerivedDataCache: Saved boot cache 0.04s 94MB C:/Users/rulen/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.29-20.24.18:920][  0]LogInit: Texture streaming: Enabled
+[2023.03.29-20.24.18:929][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.03.29-20.24.18:932][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.29-20.24.18:932][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.03.29-20.24.18:933][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.03.29-20.24.18:951][  0]LogInit: Transaction tracking system initialized
+[2023.03.29-20.24.18:966][  0]BlueprintLog: New page: Editor Load
+[2023.03.29-20.24.19:007][  0]LocalizationService: Localization service is disabled
+[2023.03.29-20.24.19:023][  0]TimingProfiler: Initialize
+[2023.03.29-20.24.19:023][  0]TimingProfiler: OnSessionChanged
+[2023.03.29-20.24.19:023][  0]LoadingProfiler: Initialize
+[2023.03.29-20.24.19:023][  0]LoadingProfiler: OnSessionChanged
+[2023.03.29-20.24.19:023][  0]NetworkingProfiler: Initialize
+[2023.03.29-20.24.19:023][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.29-20.24.19:023][  0]MemoryProfiler: Initialize
+[2023.03.29-20.24.19:023][  0]MemoryProfiler: OnSessionChanged
+[2023.03.29-20.24.19:127][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.03.29-20.24.19:127][  0]LogCook: Display: Mobile HDR setting 1
+[2023.03.29-20.24.19:257][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/Content/' took 0.00s
+[2023.03.29-20.24.19:387][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.29-20.24.19:389][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.005
+[2023.03.29-20.24.19:389][  0]Cmd: MAP LOAD FILE="../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Maps/L_Entry.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.29-20.24.19:389][  0]LightingResults: New page: Lighting Build
+[2023.03.29-20.24.19:390][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.29-20.24.19:390][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.29-20.24.19:391][  0]MapCheck: New page: Map Check
+[2023.03.29-20.24.19:391][  0]LightingResults: New page: Lighting Build
+[2023.03.29-20.24.19:394][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.29-20.24.19:396][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.03.29-20.24.19:406][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Entry'.
+[2023.03.29-20.24.19:407][  0]LogAIModule: Creating AISystem for world L_Entry
+[2023.03.29-20.24.19:409][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/BattleGridMech/Maps/SubLevels/L_Lighting) is flushing async loading
+[2023.03.29-20.24.19:409][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.03.29-20.24.19:418][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/BattleGridMech/Maps/SubLevels/L_Square) is flushing async loading
+[2023.03.29-20.24.19:419][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.29-20.24.19:423][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.29-20.24.19:424][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.29-20.24.19:424][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.259ms to complete.
+[2023.03.29-20.24.19:424][  0]LogFileHelpers: Loading map 'L_Entry' took 0.035
+[2023.03.29-20.24.19:426][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.042
+[2023.03.29-20.24.19:536][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.29-20.24.19:541][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.29-20.24.19:546][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.29-20.24.19:550][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.29-20.24.19:562][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0090 seconds. Added 3830 classes and 934 folders.
+[2023.03.29-20.24.19:564][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.03.29-20.24.19:565][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.29-20.24.19:565][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:565][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.29-20.24.19:565][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:565][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.03.29-20.24.19:565][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2023.03.29-20.24.19:566][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.29-20.24.19:566][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:566][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.29-20.24.19:566][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:566][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.03.29-20.24.19:566][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.03.29-20.24.19:566][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.03.29-20.24.19:566][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:566][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.03.29-20.24.19:566][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:566][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.03.29-20.24.19:566][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.03.29-20.24.19:567][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.29-20.24.19:567][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:567][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.29-20.24.19:567][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:567][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.03.29-20.24.19:567][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.03.29-20.24.19:567][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.29-20.24.19:567][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:567][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.29-20.24.19:567][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:567][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.03.29-20.24.19:567][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.29-20.24.19:568][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.29-20.24.19:568][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:568][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.29-20.24.19:568][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:568][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.03.29-20.24.19:568][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.29-20.24.19:568][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.29-20.24.19:568][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:568][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.29-20.24.19:568][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:568][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.03.29-20.24.19:568][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.29-20.24.19:568][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.29-20.24.19:568][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:568][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.29-20.24.19:568][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:568][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.03.29-20.24.19:568][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.03.29-20.24.19:569][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.29-20.24.19:569][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:569][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.29-20.24.19:569][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:569][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.03.29-20.24.19:569][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.03.29-20.24.19:570][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.29-20.24.19:570][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:570][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.29-20.24.19:570][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:570][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.03.29-20.24.19:570][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.29-20.24.19:570][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.29-20.24.19:570][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:570][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.29-20.24.19:570][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:570][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.03.29-20.24.19:570][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.29-20.24.19:570][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.29-20.24.19:570][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:570][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.29-20.24.19:570][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:570][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.03.29-20.24.19:571][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.03.29-20.24.19:571][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.29-20.24.19:571][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:571][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.29-20.24.19:571][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:571][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.03.29-20.24.19:571][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.03.29-20.24.19:571][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.29-20.24.19:571][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:571][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.29-20.24.19:571][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:571][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.03.29-20.24.19:571][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.03.29-20.24.19:572][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.29-20.24.19:572][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:572][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.29-20.24.19:572][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:572][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.03.29-20.24.19:572][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.03.29-20.24.19:572][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.29-20.24.19:572][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:572][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.29-20.24.19:572][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:572][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.03.29-20.24.19:572][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.03.29-20.24.19:572][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.29-20.24.19:573][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:573][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.29-20.24.19:573][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:573][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.03.29-20.24.19:573][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.03.29-20.24.19:573][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.29-20.24.19:573][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:573][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.29-20.24.19:573][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:573][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.03.29-20.24.19:573][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.29-20.24.19:573][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.29-20.24.19:574][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:574][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.29-20.24.19:574][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:574][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.03.29-20.24.19:574][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2023.03.29-20.24.19:574][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.29-20.24.19:574][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:574][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.29-20.24.19:574][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:574][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.03.29-20.24.19:574][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.29-20.24.19:575][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.29-20.24.19:575][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:575][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.29-20.24.19:575][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:575][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.03.29-20.24.19:575][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2023.03.29-20.24.19:575][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.29-20.24.19:575][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:575][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.29-20.24.19:575][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:575][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.03.29-20.24.19:575][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.03.29-20.24.19:576][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.03.29-20.24.19:576][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:576][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.03.29-20.24.19:576][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:576][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.03.29-20.24.19:576][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.03.29-20.24.19:576][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.29-20.24.19:576][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:576][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.29-20.24.19:576][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:576][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.03.29-20.24.19:576][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.03.29-20.24.19:577][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.29-20.24.19:577][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:577][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.29-20.24.19:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.03.29-20.24.19:577][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.29-20.24.19:577][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.29-20.24.19:577][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.29-20.24.19:577][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.29-20.24.19:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.29-20.24.19:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.03.29-20.24.19:577][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.03.29-20.24.19:610][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.03.29-20.24.19:611][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.03.29-20.24.19:645][  0]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.29-20.24.20:148][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.29-20.24.20:149][  0]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.29-20.24.20:201][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2023.03.29-20.24.20:238][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.29-20.24.20:306][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.03.29-20.24.20:306][  0]LogLoad: (Engine Initialization) Total time: 5.92 seconds
+[2023.03.29-20.24.20:306][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.29-20.24.20:341][  0]LogAssetRegistry: Asset discovery search completed in 3.8037 seconds
+[2023.03.29-20.24.20:346][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.03.29-20.24.20:346][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.29-20.24.49:190][380]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.03.29-20.24.49:192][380]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.03.29-20.24.52:940][773]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.29-20.24.52:953][773]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" -game -rocket -progress
+[2023.03.29-20.24.53:259][773]Discovering modules, targets and source code for project...
+[2023.03.29-20.25.02:107][773]Binding IntelliSense data...
+[2023.03.29-20.25.08:050][773]Binding IntelliSense data... 100%
+[2023.03.29-20.25.08:050][773]Writing project files...
+[2023.03.29-20.25.09:962][773]Writing project files... 100%
+[2023.03.29-21.39.35:424][754]LogHotReload: New module detected: UE4Editor-BattleGridMech-0001.dll
+[2023.03.29-21.39.36:434][758]LogHotReload: Starting Hot-Reload from IDE
+[2023.03.29-21.39.36:495][758]LogClass: Could not find existing class ButtonConsoleCommandBase in package /Script/BattleGridMech for HotReload, assuming new class
+[2023.03.29-21.39.36:495][758]LogClass: Function OnButtonClick is new.
+[2023.03.29-21.39.36:499][758]LogHotReload: Re-instancing ButtonConsoleCommandBase after hot-reload.
+[2023.03.29-21.39.36:507][758]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0005 seconds. Added 6 classes and 3 folders.
+[2023.03.29-21.39.36:510][758]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.03.29-21.39.36:553][758]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0117 seconds. Added 3830 classes and 934 folders.
+[2023.03.29-21.39.36:578][758]Display: HotReload took  0.1s.
+[2023.03.29-21.39.40:221][859]Candidate modules for hot reload:
+[2023.03.29-21.39.40:222][859]  BattleGridMech
+[2023.03.29-21.39.40:222][859]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleGridMech,4332 BattleGridMechEditor Win64 Development -Project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" "C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject"  -IgnoreJunk]
+[2023.03.29-21.39.40:224][859]Warning: Starting HotReload took  0.0s.
+[2023.03.29-21.39.42:050][979]CompilerResultsLog: New page: Compilation - Mar 30, 2023, 1:39:42 AM
+[2023.03.29-21.39.42:051][979]CompilerResultsLog: Building BattleGridMechEditor...
+[2023.03.29-21.39.42:051][979]CompilerResultsLog: Using Visual Studio 2022 14.35.32216 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.03.29-21.39.42:051][979]CompilerResultsLog: Building 3 actions with 12 processes...
+[2023.03.29-21.39.42:051][979]CompilerResultsLog:   [1/3] UE4Editor-BattleGridMech-4332.lib
+[2023.03.29-21.39.42:051][979]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-4332.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-4332.exp
+[2023.03.29-21.39.42:051][979]CompilerResultsLog:   [2/3] UE4Editor-BattleGridMech-4332.dll
+[2023.03.29-21.39.42:051][979]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-4332.suppressed.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-4332.suppressed.exp
+[2023.03.29-21.39.42:051][979]CompilerResultsLog:   [3/3] BattleGridMechEditor.target
+[2023.03.29-21.39.42:051][979]CompilerResultsLog: Total time in Parallel executor: 1.06 seconds
+[2023.03.29-21.39.42:051][979]CompilerResultsLog: Total execution time: 1.76 seconds
+[2023.03.29-21.39.42:051][979]LogMainFrame: MainFrame: Module compiling took 1.836 seconds
+[2023.03.29-21.39.42:076][979]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0003 seconds. Added 6 classes and 3 folders.
+[2023.03.29-21.39.42:077][979]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.03.29-21.39.42:111][979]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0094 seconds. Added 3830 classes and 934 folders.
+[2023.03.29-21.39.42:111][979]Display: HotReload took  1.9s.
+[2023.03.29-22.07.35:812][214]LogHotReload: New module detected: UE4Editor-BattleGridMech-0003.dll
+[2023.03.29-22.07.36:491][217]LogHotReload: Starting Hot-Reload from IDE
+[2023.03.29-22.07.36:540][217]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0003 seconds. Added 6 classes and 3 folders.
+[2023.03.29-22.07.36:542][217]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.03.29-22.07.36:576][217]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3830 classes and 934 folders.
+[2023.03.29-22.07.36:578][217]Display: HotReload took  0.1s.
+[2023.03.29-22.08.06:157][283]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.29-22.08.06:728][283]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2023.03.29-22.08.07:904][283]LogSlate: Took 0.005112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.29-22.08.09:270][393]LogSlate: Window 'W_ButtonConsoleCommand' being destroyed
+[2023.03.29-22.08.13:816][907]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.29-22.08.24:185][135]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.29-22.08.24:234][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2023.03.29-22.08.24:274][135]LogSlate: Took 0.006294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.29-22.08.24:817][190]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommand6F28E7CB445D4E9A6B1AB28DE672BFC5.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.uasset'
+[2023.03.29-22.08.24:837][190]AssetCheck: New page: Asset Save: W_ButtonConsoleCommand
+[2023.03.29-22.08.24:837][190]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.29-22.08.43:094][360]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.29-22.08.43:132][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.03.29-22.08.43:666][415]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommand2F66F2EA4FEE0FE53BFA30A1D0DC40E7.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.uasset'
+[2023.03.29-22.08.43:679][415]AssetCheck: New page: Asset Save: W_ButtonConsoleCommand
+[2023.03.29-22.08.43:679][415]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.29-22.09.08:664][375]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.29-22.09.08:698][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.03.29-22.09.09:422][446]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommand66F63B134E3B5F7578AD1FADFB090FC9.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.uasset'
+[2023.03.29-22.09.09:434][446]AssetCheck: New page: Asset Save: W_ButtonConsoleCommand
+[2023.03.29-22.09.09:434][446]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.29-22.09.23:654][123]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommand0E1FEAB84DF01B7EBC5FB3A1660DD1CE.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.uasset'
+[2023.03.29-22.09.23:666][123]AssetCheck: New page: Asset Save: W_ButtonConsoleCommand
+[2023.03.29-22.09.23:666][123]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.29-22.09.24:180][184]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.29-22.09.24:214][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.03.29-22.09.25:950][379]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.29-22.09.25:950][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.29-22.09.25:957][379]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.03.29-22.09.25:957][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.29-22.09.27:589][525]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.29-22.09.54:612][708]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommand373883954EBDCC1D77403CAD3FDB0B3C.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.uasset'
+[2023.03.29-22.09.54:625][708]AssetCheck: New page: Asset Save: W_ButtonConsoleCommand
+[2023.03.29-22.09.54:625][708]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.29-22.09.55:051][759]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.29-22.09.55:105][759]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.03.29-22.10.30:934][ 24]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.29-22.10.30:969][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.03.29-22.10.31:532][ 81]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommand2C1E8C904947885A066CE0AAD5703E10.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.uasset'
+[2023.03.29-22.10.31:544][ 81]AssetCheck: New page: Asset Save: W_ButtonConsoleCommand
+[2023.03.29-22.10.31:544][ 81]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.29-22.10.56:343][ 11]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.29-22.10.56:370][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.03.29-22.10.56:862][ 51]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommand8C74DE0045D3F2B79DC6189D98FEEFFD.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.uasset'
+[2023.03.29-22.10.56:873][ 51]AssetCheck: New page: Asset Save: W_ButtonConsoleCommand
+[2023.03.29-22.10.56:873][ 51]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.29-22.11.48:641][209]LogEditorTransaction: Undo Edit Y
+[2023.03.29-22.11.49:154][229]LogEditorTransaction: Undo Edit X
+[2023.03.29-22.12.21:793][111]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.29-22.12.21:821][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.03.29-22.12.22:293][149]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommandFA07664D4B0202BC39748BA69B1A488A.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.uasset'
+[2023.03.29-22.12.22:304][149]AssetCheck: New page: Asset Save: W_ButtonConsoleCommand
+[2023.03.29-22.12.22:305][149]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.29-22.14.31:530][152]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.29-22.14.31:557][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.03.29-22.14.32:047][194]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommandFA6F1E494F2017755384A29E7532D7AB.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.uasset'
+[2023.03.29-22.14.32:061][194]AssetCheck: New page: Asset Save: W_ButtonConsoleCommand
+[2023.03.29-22.14.32:061][194]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.29-22.23.53:089][ 12]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.29-22.23.53:118][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.03.29-22.23.55:329][227]Candidate modules for hot reload:
+[2023.03.29-22.23.55:329][227]  BattleGridMech
+[2023.03.29-22.23.55:329][227]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleGridMech,8195 BattleGridMechEditor Win64 Development -Project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" "C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject"  -IgnoreJunk]
+[2023.03.29-22.23.55:332][227]Warning: Starting HotReload took  0.0s.
+[2023.03.29-22.24.00:472][598]CompilerResultsLog: New page: Compilation - Mar 30, 2023, 2:24:00 AM
+[2023.03.29-22.24.00:473][598]CompilerResultsLog: Building BattleGridMechEditor...
+[2023.03.29-22.24.00:473][598]CompilerResultsLog: Using Visual Studio 2022 14.35.32216 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.03.29-22.24.00:473][598]CompilerResultsLog: Building 4 actions with 12 processes...
+[2023.03.29-22.24.00:473][598]CompilerResultsLog:   [1/4] ButtonConsoleCommandBase.cpp
+[2023.03.29-22.24.00:473][598]CompilerResultsLog:   [2/4] UE4Editor-BattleGridMech-8195.lib
+[2023.03.29-22.24.00:473][598]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-8195.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-8195.exp
+[2023.03.29-22.24.00:473][598]CompilerResultsLog:   [3/4] UE4Editor-BattleGridMech-8195.dll
+[2023.03.29-22.24.00:473][598]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-8195.suppressed.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-8195.suppressed.exp
+[2023.03.29-22.24.00:473][598]CompilerResultsLog:   [4/4] BattleGridMechEditor.target
+[2023.03.29-22.24.00:473][598]CompilerResultsLog: Total time in Parallel executor: 4.36 seconds
+[2023.03.29-22.24.00:473][598]CompilerResultsLog: Total execution time: 5.07 seconds
+[2023.03.29-22.24.00:473][598]LogMainFrame: MainFrame: Module compiling took 5.146 seconds
+[2023.03.29-22.24.00:515][598]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0003 seconds. Added 6 classes and 3 folders.
+[2023.03.29-22.24.00:519][598]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.03.29-22.24.00:573][598]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0099 seconds. Added 3830 classes and 934 folders.
+[2023.03.29-22.24.00:573][598]Display: HotReload took  5.3s.
+[2023.03.29-22.24.03:774][887]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.29-22.24.03:820][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.03.29-22.24.04:325][938]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommandEA4072FF420FD091FCC6308A301F4194.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.uasset'
+[2023.03.29-22.24.04:340][938]AssetCheck: New page: Asset Save: W_ButtonConsoleCommand
+[2023.03.29-22.24.04:340][938]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.29-22.31.21:286][ 61]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.29-22.31.21:327][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2023.03.29-22.31.21:766][ 97]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommand0327F2DC4EBA805FAAB1658706AEF7FD.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.uasset'
+[2023.03.29-22.31.21:779][ 97]AssetCheck: New page: Asset Save: W_ButtonConsoleCommand
+[2023.03.29-22.31.21:779][ 97]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.29-22.50.15:543][785]LogHotReload: New module detected: UE4Editor-BattleGridMech-0005.dll
+[2023.03.29-22.50.16:224][788]LogHotReload: Starting Hot-Reload from IDE
+[2023.03.29-22.50.16:263][788]LogClass: Could not find existing class ButtonConsoleCommandBase in package /Script/BattleGridMech for HotReload, assuming new class
+[2023.03.29-22.50.16:263][788]LogClass: Function OnButtonClick is new.
+[2023.03.29-22.50.16:271][788]LogHotReload: Re-instancing ButtonConsoleCommandBase after hot-reload.
+[2023.03.29-22.50.16:313][788]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0003 seconds. Added 6 classes and 3 folders.
+[2023.03.29-22.50.16:317][788]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.03.29-22.50.16:388][788]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0088 seconds. Added 3830 classes and 934 folders.
+[2023.03.29-22.50.16:391][788]Display: HotReload took  0.2s.
+[2023.03.29-22.50.20:673][ 29]Candidate modules for hot reload:
+[2023.03.29-22.50.20:673][ 29]  BattleGridMech
+[2023.03.29-22.50.20:673][ 29]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleGridMech,1599 BattleGridMechEditor Win64 Development -Project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" "C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject"  -IgnoreJunk]
+[2023.03.29-22.50.20:676][ 29]Warning: Starting HotReload took  0.0s.
+[2023.03.29-22.50.22:510][147]CompilerResultsLog: New page: Compilation - Mar 30, 2023, 2:50:22 AM
+[2023.03.29-22.50.22:510][147]CompilerResultsLog: Building BattleGridMechEditor...
+[2023.03.29-22.50.22:510][147]CompilerResultsLog: Using Visual Studio 2022 14.35.32216 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.03.29-22.50.22:510][147]CompilerResultsLog: Building 3 actions with 12 processes...
+[2023.03.29-22.50.22:510][147]CompilerResultsLog:   [1/3] UE4Editor-BattleGridMech-1599.lib
+[2023.03.29-22.50.22:510][147]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-1599.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-1599.exp
+[2023.03.29-22.50.22:510][147]CompilerResultsLog:   [2/3] UE4Editor-BattleGridMech-1599.dll
+[2023.03.29-22.50.22:510][147]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-1599.suppressed.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-1599.suppressed.exp
+[2023.03.29-22.50.22:510][147]CompilerResultsLog:   [3/3] BattleGridMechEditor.target
+[2023.03.29-22.50.22:510][147]CompilerResultsLog: Total time in Parallel executor: 1.10 seconds
+[2023.03.29-22.50.22:510][147]CompilerResultsLog: Total execution time: 1.77 seconds
+[2023.03.29-22.50.22:510][147]LogMainFrame: MainFrame: Module compiling took 1.840 seconds
+[2023.03.29-22.50.22:547][147]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0003 seconds. Added 6 classes and 3 folders.
+[2023.03.29-22.50.22:553][147]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.03.29-22.50.22:628][147]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0082 seconds. Added 3830 classes and 934 folders.
+[2023.03.29-22.50.22:628][147]Display: HotReload took  2.0s.
+[2023.03.29-22.50.28:788][791]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.29-22.50.28:899][791]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2023.03.29-22.50.29:213][819]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommandB1E824D449A2F8BDD1840FB79B110918.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.uasset'
+[2023.03.29-22.50.29:227][819]AssetCheck: New page: Asset Save: W_ButtonConsoleCommand
+[2023.03.29-22.50.29:227][819]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.29-22.50.29:972][902]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.03.29-22.50.29:972][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.29-22.50.29:979][902]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.03.29-22.50.29:979][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.29-22.50.31:092][999]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.29-22.51.14:987][421]Candidate modules for hot reload:
+[2023.03.29-22.51.14:987][421]  BattleGridMech
+[2023.03.29-22.51.14:987][421]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleGridMech,4540 BattleGridMechEditor Win64 Development -Project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" "C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject"  -IgnoreJunk]
+[2023.03.29-22.51.14:989][421]Warning: Starting HotReload took  0.0s.
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog: New page: Compilation - Mar 30, 2023, 2:51:23 AM
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog: Parsing headers for BattleGridMechEditor
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog:   Running UnrealHeaderTool "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\BattleGridMech.uproject" "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\BattleGridMechEditor\Development\BattleGridMechEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\rulen\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog: Reflection code generated for BattleGridMechEditor in 3.3534459 seconds
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog: Building BattleGridMechEditor...
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog: Using Visual Studio 2022 14.35.32216 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog: Building 6 actions with 12 processes...
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog:   [1/6] BattleGridMech.init.gen.cpp
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog:   [2/6] ButtonConsoleCommandBase.gen.cpp
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog:   [3/6] ButtonConsoleCommandBase.cpp
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog:   [4/6] UE4Editor-BattleGridMech-4540.lib
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-4540.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-4540.exp
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog:   [5/6] UE4Editor-BattleGridMech-4540.dll
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-4540.suppressed.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-4540.suppressed.exp
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog:   [6/6] BattleGridMechEditor.target
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog: Total time in Parallel executor: 4.43 seconds
+[2023.03.29-22.51.23:582][ 40]CompilerResultsLog: Total execution time: 8.53 seconds
+[2023.03.29-22.51.23:582][ 40]LogMainFrame: MainFrame: Module compiling took 8.598 seconds
+[2023.03.29-22.51.23:609][ 40]LogClass: Could not find existing class ButtonConsoleCommandBase in package /Script/BattleGridMech for HotReload, assuming new class
+[2023.03.29-22.51.23:609][ 40]LogClass: Function OnButtonClick is new.
+[2023.03.29-22.51.23:621][ 40]LogHotReload: Re-instancing ButtonConsoleCommandBase after hot-reload.
+[2023.03.29-22.51.23:707][ 40]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0003 seconds. Added 6 classes and 3 folders.
+[2023.03.29-22.51.23:712][ 40]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.03.29-22.51.23:803][ 40]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3830 classes and 934 folders.
+[2023.03.29-22.51.23:804][ 40]Display: HotReload took  8.8s.
+[2023.03.29-22.55.44:102][390]Candidate modules for hot reload:
+[2023.03.29-22.55.44:102][390]  BattleGridMech
+[2023.03.29-22.55.44:102][390]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleGridMech,6710 BattleGridMechEditor Win64 Development -Project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" "C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject"  -IgnoreJunk]
+[2023.03.29-22.55.44:104][390]Warning: Starting HotReload took  0.0s.
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog: New page: Compilation - Mar 30, 2023, 2:55:53 AM
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog: Parsing headers for BattleGridMechEditor
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog:   Running UnrealHeaderTool "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\BattleGridMech.uproject" "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\BattleGridMechEditor\Development\BattleGridMechEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\rulen\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog: Reflection code generated for BattleGridMechEditor in 3.4814516 seconds
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog: Building BattleGridMechEditor...
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog: Using Visual Studio 2022 14.35.32216 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog: Building 6 actions with 12 processes...
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog:   [1/6] BattleGridMech.init.gen.cpp
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog:   [2/6] ButtonConsoleCommandBase.gen.cpp
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog:   [3/6] ButtonConsoleCommandBase.cpp
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog:   [4/6] UE4Editor-BattleGridMech-6710.lib
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-6710.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-6710.exp
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog:   [5/6] UE4Editor-BattleGridMech-6710.dll
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-6710.suppressed.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-6710.suppressed.exp
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog:   [6/6] BattleGridMechEditor.target
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog: Total time in Parallel executor: 4.81 seconds
+[2023.03.29-22.55.53:245][ 31]CompilerResultsLog: Total execution time: 9.08 seconds
+[2023.03.29-22.55.53:245][ 31]LogMainFrame: MainFrame: Module compiling took 9.145 seconds
+[2023.03.29-22.55.53:277][ 31]LogClass: Could not find existing class ButtonConsoleCommandBase in package /Script/BattleGridMech for HotReload, assuming new class
+[2023.03.29-22.55.53:277][ 31]LogClass: Function OnButtonClick is new.
+[2023.03.29-22.55.53:289][ 31]LogHotReload: Re-instancing ButtonConsoleCommandBase after hot-reload.
+[2023.03.29-22.55.53:326][ 31]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0003 seconds. Added 6 classes and 3 folders.
+[2023.03.29-22.55.53:334][ 31]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.03.29-22.55.53:453][ 31]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0100 seconds. Added 3830 classes and 934 folders.
+[2023.03.29-22.55.53:453][ 31]Display: HotReload took  9.4s.
+[2023.03.29-22.56.14:780][433]LogSlate: Took 0.006459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.03.29-22.56.20:472][ 98]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.29-22.56.20:634][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2023.03.29-22.56.36:181][934]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.29-22.56.36:261][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2023.03.29-22.57.03:742][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.03.29-22.57.03:743][647]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BattleGridMech/Maps/L_Entry' took 0.021
+[2023.03.29-22.57.03:745][647]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand] ([2] browsable assets)...
+[2023.03.29-22.57.03:745][647]OBJ SavePackage: Finished generating thumbnails for package [/Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand]
+[2023.03.29-22.57.03:749][647]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommand_Auto1D317BF49469F1C4FD10E27A3CD33F14B.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Saved/Autosaves/Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand_Auto1.uasset'
+[2023.03.29-22.57.03:749][647]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.03.29-22.57.37:525][945]Candidate modules for hot reload:
+[2023.03.29-22.57.37:525][945]  BattleGridMech
+[2023.03.29-22.57.37:525][945]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleGridMech,0775 BattleGridMechEditor Win64 Development -Project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" "C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject"  -IgnoreJunk]
+[2023.03.29-22.57.37:528][945]Warning: Starting HotReload took  0.0s.
+[2023.03.29-22.57.44:877][216]CompilerResultsLog: New page: Compilation - Mar 30, 2023, 2:57:44 AM
+[2023.03.29-22.57.44:877][216]CompilerResultsLog: Parsing headers for BattleGridMechEditor
+[2023.03.29-22.57.44:877][216]CompilerResultsLog:   Running UnrealHeaderTool "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\BattleGridMech.uproject" "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\BattleGridMechEditor\Development\BattleGridMechEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\rulen\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.03.29-22.57.44:877][216]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.03.29-22.57.44:877][216]CompilerResultsLog: Reflection code generated for BattleGridMechEditor in 3.3602258 seconds
+[2023.03.29-22.57.44:877][216]CompilerResultsLog: Building BattleGridMechEditor...
+[2023.03.29-22.57.44:877][216]CompilerResultsLog: Using Visual Studio 2022 14.35.32216 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.03.29-22.57.44:877][216]CompilerResultsLog: Building 6 actions with 12 processes...
+[2023.03.29-22.57.44:877][216]CompilerResultsLog:   [1/6] BattleGridMech.init.gen.cpp
+[2023.03.29-22.57.44:877][216]CompilerResultsLog:   [2/6] ButtonConsoleCommandBase.gen.cpp
+[2023.03.29-22.57.44:877][216]CompilerResultsLog:   [3/6] ButtonConsoleCommandBase.cpp
+[2023.03.29-22.57.44:877][216]CompilerResultsLog:   [4/6] UE4Editor-BattleGridMech-0775.lib
+[2023.03.29-22.57.44:877][216]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-0775.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-0775.exp
+[2023.03.29-22.57.44:877][216]CompilerResultsLog:   [5/6] UE4Editor-BattleGridMech-0775.dll
+[2023.03.29-22.57.44:877][216]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-0775.suppressed.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-0775.suppressed.exp
+[2023.03.29-22.57.44:877][216]CompilerResultsLog:   [6/6] BattleGridMechEditor.target
+[2023.03.29-22.57.44:877][216]CompilerResultsLog: Total time in Parallel executor: 3.05 seconds
+[2023.03.29-22.57.44:877][216]CompilerResultsLog: Total execution time: 7.06 seconds
+[2023.03.29-22.57.44:877][216]LogMainFrame: MainFrame: Module compiling took 7.355 seconds
+[2023.03.29-22.57.44:906][216]LogClass: Could not find existing class ButtonConsoleCommandBase in package /Script/BattleGridMech for HotReload, assuming new class
+[2023.03.29-22.57.44:906][216]LogClass: Function OnButtonClick is new.
+[2023.03.29-22.57.44:914][216]LogHotReload: Re-instancing ButtonConsoleCommandBase after hot-reload.
+[2023.03.29-22.57.44:955][216]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0003 seconds. Added 6 classes and 3 folders.
+[2023.03.29-22.57.44:959][216]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.03.29-22.57.45:028][216]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3830 classes and 934 folders.
+[2023.03.29-22.57.45:028][216]Display: HotReload took  7.5s.
+[2023.03.29-22.58.03:778][317]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.29-22.58.03:851][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2023.03.29-22.58.45:273][ 95]Candidate modules for hot reload:
+[2023.03.29-22.58.45:273][ 95]  BattleGridMech
+[2023.03.29-22.58.45:273][ 95]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleGridMech,5328 BattleGridMechEditor Win64 Development -Project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" "C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject"  -IgnoreJunk]
+[2023.03.29-22.58.45:276][ 95]Warning: Starting HotReload took  0.0s.
+[2023.03.29-22.58.53:728][709]CompilerResultsLog: New page: Compilation - Mar 30, 2023, 2:58:53 AM
+[2023.03.29-22.58.53:729][709]CompilerResultsLog: Parsing headers for BattleGridMechEditor
+[2023.03.29-22.58.53:729][709]CompilerResultsLog:   Running UnrealHeaderTool "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\BattleGridMech.uproject" "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\BattleGridMechEditor\Development\BattleGridMechEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\rulen\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.03.29-22.58.53:729][709]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.03.29-22.58.53:729][709]CompilerResultsLog: Reflection code generated for BattleGridMechEditor in 3.3179144 seconds
+[2023.03.29-22.58.53:729][709]CompilerResultsLog: Building BattleGridMechEditor...
+[2023.03.29-22.58.53:729][709]CompilerResultsLog: Using Visual Studio 2022 14.35.32216 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.03.29-22.58.53:729][709]CompilerResultsLog: Building 5 actions with 12 processes...
+[2023.03.29-22.58.53:729][709]CompilerResultsLog:   [1/5] ButtonConsoleCommandBase.gen.cpp
+[2023.03.29-22.58.53:729][709]CompilerResultsLog:   [2/5] ButtonConsoleCommandBase.cpp
+[2023.03.29-22.58.53:729][709]CompilerResultsLog:   [3/5] UE4Editor-BattleGridMech-5328.lib
+[2023.03.29-22.58.53:729][709]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-5328.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-5328.exp
+[2023.03.29-22.58.53:729][709]CompilerResultsLog:   [4/5] UE4Editor-BattleGridMech-5328.dll
+[2023.03.29-22.58.53:729][709]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-5328.suppressed.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-5328.suppressed.exp
+[2023.03.29-22.58.53:729][709]CompilerResultsLog:   [5/5] BattleGridMechEditor.target
+[2023.03.29-22.58.53:729][709]CompilerResultsLog: Total time in Parallel executor: 4.33 seconds
+[2023.03.29-22.58.53:729][709]CompilerResultsLog: Total execution time: 8.39 seconds
+[2023.03.29-22.58.53:729][709]LogMainFrame: MainFrame: Module compiling took 8.458 seconds
+[2023.03.29-22.58.53:771][709]LogHotReload: Re-instancing ButtonConsoleCommandBase after hot-reload.
+[2023.03.29-22.58.53:819][709]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0003 seconds. Added 6 classes and 3 folders.
+[2023.03.29-22.58.53:825][709]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2023.03.29-22.58.53:911][709]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0088 seconds. Added 3830 classes and 934 folders.
+[2023.03.29-22.58.53:911][709]Display: HotReload took  8.6s.
+[2023.03.29-23.05.51:611][301]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.29-23.05.51:714][301]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2023.03.29-23.05.52:179][346]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommand2E1B84914B62C709017BC1A1F69E401B.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.uasset'
+[2023.03.29-23.05.52:194][346]AssetCheck: New page: Asset Save: W_ButtonConsoleCommand
+[2023.03.29-23.05.52:194][346]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.29-23.05.53:305][446]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.29-23.05.53:314][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.29-23.05.53:315][446]PIE: New page: PIE session: L_Entry (Mar 30, 2023, 3:05:53 AM)
+[2023.03.29-23.05.53:322][446]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.03.29-23.05.53:324][446]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.29-23.05.53:325][446]LogPlayLevel: Creating play world package: /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry
+[2023.03.29-23.05.53:327][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002559s)
+[2023.03.29-23.05.53:329][446]LogAIModule: Creating AISystem for world L_Entry
+[2023.03.29-23.05.53:330][446]LogPlayLevel: PIE: World Init took: (0.002089s)
+[2023.03.29-23.05.53:330][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGridMech/Maps/L_Entry.L_Entry to /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry.L_Entry (0.005170s)
+[2023.03.29-23.05.53:376][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.03.29-23.05.53:377][446]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.29-23.05.53:377][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.29-23.05.53:377][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.29-23.05.53:378][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.29-23.05.53:378][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.29-23.05.53:378][446]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.29-23.05.53:378][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.29-23.05.53:378][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.29-23.05.53:378][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.29-23.05.53:378][446]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.29-23.05.53:378][446]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.29-23.05.53:378][446]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.29-23.05.53:378][446]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.29-23.05.53:382][446]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.29-23.05.53:382][446]LogAudioMixer: Display: 1: FrontRight
+[2023.03.29-23.05.53:388][446]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.03.29-23.05.53:388][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.29-23.05.53:388][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.29-23.05.53:388][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.29-23.05.53:389][446]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.29-23.05.53:389][446]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.29-23.05.53:389][446]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.29-23.05.53:390][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.29-23.05.53:390][446]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.29-23.05.53:390][446]LogInit: FAudioDevice initialized.
+[2023.03.29-23.05.53:390][446]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_Entry'.
+[2023.03.29-23.05.53:439][446]LogLoad: Game class is 'BP_BattleGridMechGameMode_C'
+[2023.03.29-23.05.53:456][446]LogWorld: Bringing World /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.03.30-01.05.53
+[2023.03.29-23.05.53:457][446]LogWorld: Bringing up level for play took: 0.002030
+[2023.03.29-23.05.53:458][446]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.03.29-23.05.53:496][446]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2023.03.29-23.05.53:503][446]PIE: Server logged in
+[2023.03.29-23.05.53:505][446]PIE: Play in editor total start time 0.196 seconds.
+[2023.03.29-23.06.00:948][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.29-23.06.00:948][227]LogWorld: BeginTearingDown for /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry
+[2023.03.29-23.06.00:950][227]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.03.29-23.06.00:951][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.29-23.06.00:961][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.29-23.06.00:967][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.29-23.06.00:992][227]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.29-23.06.00:993][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.29-23.06.00:994][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.29-23.06.00:996][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.29-23.06.01:035][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2023.03.29-23.06.01:050][228]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.03.29-23.06.01:095][228]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2023.03.29-23.08.17:042][298]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.03.29-23.09.15:630][260]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2023.03.29-23.09.15:631][260]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BattleGridMech/Maps/L_Entry' took 0.029
+[2023.03.29-23.09.15:632][260]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2023.03.29-23.09.15:632][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu]
+[2023.03.29-23.09.15:637][260]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_DebugMenu_Auto262A2771C424B8343F5A98A9F92412F64.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Saved/Autosaves/Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu_Auto2.uasset'
+[2023.03.29-23.09.15:638][260]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.03.29-23.09.46:460][440]LogSlate: Took 0.014038 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.03.29-23.15.21:244][969]BlueprintLog: New page: Compile W_DebugMenu
+[2023.03.29-23.15.21:272][969]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2023.03.29-23.15.23:529][ 91]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_DebugMenuB464646D493C9D328929258176600096.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.03.29-23.15.23:544][ 91]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.03.29-23.15.23:544][ 91]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.03.29-23.15.27:686][523]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.29-23.15.27:690][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.29-23.15.27:690][523]PIE: New page: PIE session: L_Entry (Mar 30, 2023, 3:15:27 AM)
+[2023.03.29-23.15.27:690][523]LogPlayLevel: Creating play world package: /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry
+[2023.03.29-23.15.27:691][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001031s)
+[2023.03.29-23.15.27:692][523]LogAIModule: Creating AISystem for world L_Entry
+[2023.03.29-23.15.27:692][523]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2023.03.29-23.15.27:692][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGridMech/Maps/L_Entry.L_Entry to /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry.L_Entry (0.001935s)
+[2023.03.29-23.15.27:717][523]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.03.29-23.15.27:717][523]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.03.29-23.15.27:717][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.29-23.15.27:717][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.29-23.15.27:717][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.29-23.15.27:717][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.29-23.15.27:717][523]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.29-23.15.27:717][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.29-23.15.27:717][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.29-23.15.27:717][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.29-23.15.27:718][523]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.29-23.15.27:718][523]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.29-23.15.27:718][523]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.29-23.15.27:718][523]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.29-23.15.27:720][523]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.29-23.15.27:720][523]LogAudioMixer: Display: 1: FrontRight
+[2023.03.29-23.15.27:725][523]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.03.29-23.15.27:725][523]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.29-23.15.27:725][523]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.29-23.15.27:725][523]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.29-23.15.27:726][523]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.29-23.15.27:726][523]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.29-23.15.27:726][523]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.29-23.15.27:727][523]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.29-23.15.27:727][523]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.29-23.15.27:727][523]LogInit: FAudioDevice initialized.
+[2023.03.29-23.15.27:727][523]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_Entry'.
+[2023.03.29-23.15.27:733][523]LogLoad: Game class is 'BP_BattleGridMechGameMode_C'
+[2023.03.29-23.15.27:741][523]LogWorld: Bringing World /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.03.30-01.15.27
+[2023.03.29-23.15.27:741][523]LogWorld: Bringing up level for play took: 0.000323
+[2023.03.29-23.15.27:741][523]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.03.29-23.15.27:744][523]PIE: Server logged in
+[2023.03.29-23.15.27:744][523]PIE: Play in editor total start time 0.055 seconds.
+[2023.03.29-23.15.40:086][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.29-23.15.40:086][989]LogWorld: BeginTearingDown for /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry
+[2023.03.29-23.15.40:086][989]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.03.29-23.15.40:086][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.29-23.15.40:098][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.29-23.15.40:102][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.29-23.15.40:124][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.29-23.15.40:125][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.29-23.15.40:126][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.29-23.15.40:127][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.29-23.15.40:131][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.03.29-23.15.40:145][990]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.03.29-23.15.40:168][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.03.29-23.15.41:672][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.29-23.15.41:686][134]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.03.29-23.15.41:686][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.29-23.15.41:691][134]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.03.29-23.15.41:691][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.29-23.15.41:737][134]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.03.29-23.15.41:737][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.29-23.15.41:744][134]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.03.29-23.15.41:744][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.29-23.15.41:785][134]LogSlate: Window 'BattleGridMech - Unreal Editor' being destroyed
+[2023.03.29-23.15.41:876][135]Cmd: QUIT_EDITOR
+[2023.03.29-23.15.41:876][135]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.03.29-23.15.41:880][135]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.03.29-23.15.42:119][135]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.03.29-23.15.42:119][135]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.03.29-23.15.42:119][135]LogAudio: Display: Audio Device unregistered from world 'L_Entry'.
+[2023.03.29-23.15.42:119][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.29-23.15.42:120][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.29-23.15.42:128][135]LogAudio: Display: Audio Device Manager Shutdown
+[2023.03.29-23.15.42:129][135]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.29-23.15.42:135][135]LogExit: Preparing to exit.
+[2023.03.29-23.15.42:391][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.03.29-23.15.42:635][135]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.03.29-23.15.42:660][135]LogExit: Editor shut down
+[2023.03.29-23.15.42:662][135]LogExit: Transaction tracking system shut down
+[2023.03.29-23.15.42:987][135]LogExit: Object subsystem successfully closed.
+[2023.03.29-23.15.43:003][135]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.29-23.15.43:003][135]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.03.29-23.15.43:003][135]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.03.29-23.15.43:004][135]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.03.29-23.15.43:004][135]LogShaderCompilers: Display: ================================================
+[2023.03.29-23.15.43:019][135]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.03.29-23.15.43:083][135]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (892)
+[2023.03.29-23.15.43:083][135]LogModuleManager: Shutting down and abandoning module Voice (890)
+[2023.03.29-23.15.43:083][135]LogModuleManager: Shutting down and abandoning module BattleGridMech (888)
+[2023.03.29-23.15.43:083][135]LogModuleManager: Shutting down and abandoning module SequencerWidgets (881)
+[2023.03.29-23.15.43:083][135]LogModuleManager: Shutting down and abandoning module BlueprintGraph (879)
+[2023.03.29-23.15.43:083][135]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (874)
+[2023.03.29-23.15.43:083][135]LogModuleManager: Shutting down and abandoning module SceneOutliner (872)
+[2023.03.29-23.15.43:083][135]LogModuleManager: Shutting down and abandoning module AddContentDialog (870)
+[2023.03.29-23.15.43:086][135]LogModuleManager: Shutting down and abandoning module WidgetCarousel (869)
+[2023.03.29-23.15.43:086][135]LogModuleManager: Shutting down and abandoning module EditorWidgets (866)
+[2023.03.29-23.15.43:086][135]LogModuleManager: Shutting down and abandoning module StatsViewer (862)
+[2023.03.29-23.15.43:086][135]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (860)
+[2023.03.29-23.15.43:087][135]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (858)
+[2023.03.29-23.15.43:087][135]LogModuleManager: Shutting down and abandoning module AutomationWorker (856)
+[2023.03.29-23.15.43:087][135]LogModuleManager: Shutting down and abandoning module SteamVREditor (854)
+[2023.03.29-23.15.43:087][135]LogModuleManager: Shutting down and abandoning module OculusMR (852)
+[2023.03.29-23.15.43:087][135]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (850)
+[2023.03.29-23.15.43:088][135]LogModuleManager: Shutting down and abandoning module TakeRecorder (849)
+[2023.03.29-23.15.43:088][135]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (846)
+[2023.03.29-23.15.43:089][135]LogModuleManager: Shutting down and abandoning module TakesCore (844)
+[2023.03.29-23.15.43:089][135]LogModuleManager: Shutting down and abandoning module OpenXRInput (842)
+[2023.03.29-23.15.43:089][135]LogModuleManager: Shutting down and abandoning module GooglePADEditor (840)
+[2023.03.29-23.15.43:089][135]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (838)
+[2023.03.29-23.15.43:089][135]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (836)
+[2023.03.29-23.15.43:089][135]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (834)
+[2023.03.29-23.15.43:090][135]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (832)
+[2023.03.29-23.15.43:091][135]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (830)
+[2023.03.29-23.15.43:091][135]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (828)
+[2023.03.29-23.15.43:091][135]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (826)
+[2023.03.29-23.15.43:091][135]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (824)
+[2023.03.29-23.15.43:091][135]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (822)
+[2023.03.29-23.15.43:091][135]LogModuleManager: Shutting down and abandoning module WebMMedia (820)
+[2023.03.29-23.15.43:091][135]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (818)
+[2023.03.29-23.15.43:092][135]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (816)
+[2023.03.29-23.15.43:092][135]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (814)
+[2023.03.29-23.15.43:092][135]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (812)
+[2023.03.29-23.15.43:092][135]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (810)
+[2023.03.29-23.15.43:093][135]LogModuleManager: Shutting down and abandoning module SequenceRecorder (809)
+[2023.03.29-23.15.43:093][135]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (806)
+[2023.03.29-23.15.43:093][135]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (804)
+[2023.03.29-23.15.43:093][135]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (802)
+[2023.03.29-23.15.43:093][135]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (800)
+[2023.03.29-23.15.43:093][135]LogModuleManager: Shutting down and abandoning module PlanarCut (798)
+[2023.03.29-23.15.43:093][135]LogModuleManager: Shutting down and abandoning module CharacterAI (796)
+[2023.03.29-23.15.43:093][135]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (794)
+[2023.03.29-23.15.43:094][135]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (792)
+[2023.03.29-23.15.43:094][135]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (790)
+[2023.03.29-23.15.43:094][135]LogModuleManager: Shutting down and abandoning module TextureAlignMode (788)
+[2023.03.29-23.15.43:094][135]LogModuleManager: Shutting down and abandoning module BspMode (786)
+[2023.03.29-23.15.43:094][135]LogModuleManager: Shutting down and abandoning module GeometryMode (784)
+[2023.03.29-23.15.43:094][135]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (782)
+[2023.03.29-23.15.43:094][135]LogModuleManager: Shutting down and abandoning module SmartSnapping (780)
+[2023.03.29-23.15.43:094][135]LogModuleManager: Shutting down and abandoning module SessionServices (778)
+[2023.03.29-23.15.43:095][135]LogModuleManager: Shutting down and abandoning module MeshPaint (776)
+[2023.03.29-23.15.43:095][135]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (774)
+[2023.03.29-23.15.43:095][135]LogModuleManager: Shutting down and abandoning module FoliageEdit (772)
+[2023.03.29-23.15.43:096][135]LogModuleManager: Shutting down and abandoning module LandscapeEditor (770)
+[2023.03.29-23.15.43:097][135]LogModuleManager: Shutting down and abandoning module MeshPaintMode (768)
+[2023.03.29-23.15.43:097][135]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (766)
+[2023.03.29-23.15.43:097][135]LogModuleManager: Shutting down and abandoning module ActorPickerMode (764)
+[2023.03.29-23.15.43:097][135]LogModuleManager: Shutting down and abandoning module PlacementMode (762)
+[2023.03.29-23.15.43:097][135]LogModuleManager: Shutting down and abandoning module ViewportSnapping (760)
+[2023.03.29-23.15.43:097][135]LogModuleManager: Shutting down and abandoning module ViewportInteraction (758)
+[2023.03.29-23.15.43:097][135]LogModuleManager: Shutting down and abandoning module ClothPainter (756)
+[2023.03.29-23.15.43:098][135]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (755)
+[2023.03.29-23.15.43:099][135]LogModuleManager: Shutting down and abandoning module LogVisualizer (752)
+[2023.03.29-23.15.43:100][135]LogModuleManager: Shutting down and abandoning module IntroTutorials (750)
+[2023.03.29-23.15.43:100][135]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (749)
+[2023.03.29-23.15.43:100][135]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (746)
+[2023.03.29-23.15.43:100][135]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (744)
+[2023.03.29-23.15.43:100][135]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (742)
+[2023.03.29-23.15.43:101][135]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (741)
+[2023.03.29-23.15.44:796][135]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (738)
+[2023.03.29-23.15.44:796][135]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (736)
+[2023.03.29-23.15.44:796][135]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (734)
+[2023.03.29-23.15.44:796][135]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (732)
+[2023.03.29-23.15.44:796][135]LogModuleManager: Shutting down and abandoning module TraceInsights (730)
+[2023.03.29-23.15.44:798][135]MemoryProfiler: Shutdown
+[2023.03.29-23.15.44:798][135]NetworkingProfiler: Shutdown
+[2023.03.29-23.15.44:798][135]LoadingProfiler: Shutdown
+[2023.03.29-23.15.44:799][135]TimingProfiler: Shutdown
+[2023.03.29-23.15.44:800][135]LogModuleManager: Shutting down and abandoning module TraceServices (729)
+[2023.03.29-23.15.44:801][135]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (726)
+[2023.03.29-23.15.44:801][135]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (724)
+[2023.03.29-23.15.44:801][135]LogModuleManager: Shutting down and abandoning module InputBindingEditor (722)
+[2023.03.29-23.15.44:801][135]LogModuleManager: Shutting down and abandoning module MergeActors (720)
+[2023.03.29-23.15.44:801][135]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (718)
+[2023.03.29-23.15.44:802][135]LogModuleManager: Shutting down and abandoning module LocalizationService (717)
+[2023.03.29-23.15.44:802][135]LogModuleManager: Shutting down and abandoning module HardwareTargeting (714)
+[2023.03.29-23.15.44:802][135]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (712)
+[2023.03.29-23.15.44:802][135]LogModuleManager: Shutting down and abandoning module UndoHistory (710)
+[2023.03.29-23.15.44:802][135]LogModuleManager: Shutting down and abandoning module XmlParser (708)
+[2023.03.29-23.15.44:802][135]LogModuleManager: Shutting down and abandoning module Blutility (706)
+[2023.03.29-23.15.44:803][135]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (704)
+[2023.03.29-23.15.44:803][135]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (703)
+[2023.03.29-23.15.44:803][135]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (700)
+[2023.03.29-23.15.44:803][135]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (699)
+[2023.03.29-23.15.44:803][135]LogModuleManager: Shutting down and abandoning module SettingsEditor (696)
+[2023.03.29-23.15.44:803][135]LogModuleManager: Shutting down and abandoning module ProjectLauncher (694)
+[2023.03.29-23.15.44:804][135]LogModuleManager: Shutting down and abandoning module SessionFrontend (692)
+[2023.03.29-23.15.44:804][135]LogModuleManager: Shutting down and abandoning module ProfilerClient (690)
+[2023.03.29-23.15.44:806][135]LogModuleManager: Shutting down and abandoning module DeviceManager (688)
+[2023.03.29-23.15.44:806][135]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (687)
+[2023.03.29-23.15.44:837][135]LogModuleManager: Shutting down and abandoning module AutomationController (684)
+[2023.03.29-23.15.44:837][135]LogModuleManager: Shutting down and abandoning module AutomationWindow (682)
+[2023.03.29-23.15.44:838][135]LogModuleManager: Shutting down and abandoning module Layers (680)
+[2023.03.29-23.15.44:839][135]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (678)
+[2023.03.29-23.15.44:839][135]LogModuleManager: Shutting down and abandoning module DetailCustomizations (676)
+[2023.03.29-23.15.44:840][135]LogModuleManager: Shutting down and abandoning module PackagesDialog (674)
+[2023.03.29-23.15.44:840][135]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (672)
+[2023.03.29-23.15.44:840][135]LogModuleManager: Shutting down and abandoning module Persona (670)
+[2023.03.29-23.15.44:841][135]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (669)
+[2023.03.29-23.15.44:841][135]LogModuleManager: Shutting down and abandoning module AnimGraph (667)
+[2023.03.29-23.15.44:841][135]LogModuleManager: Shutting down and abandoning module Kismet (664)
+[2023.03.29-23.15.44:854][135]LogModuleManager: Shutting down and abandoning module KismetWidgets (663)
+[2023.03.29-23.15.44:854][135]LogModuleManager: Shutting down and abandoning module GraphEditor (660)
+[2023.03.29-23.15.44:854][135]LogModuleManager: Shutting down and abandoning module StructViewer (658)
+[2023.03.29-23.15.44:855][135]LogModuleManager: Shutting down and abandoning module ClassViewer (656)
+[2023.03.29-23.15.44:857][135]LogModuleManager: Shutting down and abandoning module Toolbox (654)
+[2023.03.29-23.15.44:857][135]LogModuleManager: Shutting down and abandoning module ModuleUI (652)
+[2023.03.29-23.15.44:857][135]LogModuleManager: Shutting down and abandoning module OutputLog (650)
+[2023.03.29-23.15.44:858][135]LogModuleManager: Shutting down and abandoning module GammaUI (648)
+[2023.03.29-23.15.44:859][135]LogModuleManager: Shutting down and abandoning module Documentation (646)
+[2023.03.29-23.15.44:859][135]LogModuleManager: Shutting down and abandoning module LiveCoding (644)
+[2023.03.29-23.15.44:860][135]LogModuleManager: Shutting down and abandoning module LevelSequence (642)
+[2023.03.29-23.15.44:860][135]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (640)
+[2023.03.29-23.15.44:860][135]LogModuleManager: Shutting down and abandoning module MovieScene (638)
+[2023.03.29-23.15.44:860][135]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (636)
+[2023.03.29-23.15.44:861][135]LogModuleManager: Shutting down and abandoning module LauncherPlatform (634)
+[2023.03.29-23.15.44:861][135]LogModuleManager: Shutting down and abandoning module AnalyticsET (632)
+[2023.03.29-23.15.44:861][135]LogModuleManager: Shutting down and abandoning module PortalServices (630)
+[2023.03.29-23.15.44:861][135]LogModuleManager: Shutting down and abandoning module PortalRpc (628)
+[2023.03.29-23.15.44:861][135]LogModuleManager: Shutting down and abandoning module MessagingRpc (626)
+[2023.03.29-23.15.44:861][135]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (624)
+[2023.03.29-23.15.44:861][135]LogModuleManager: Shutting down and abandoning module AudioMixerCore (623)
+[2023.03.29-23.15.44:861][135]LogModuleManager: Shutting down and abandoning module AIModule (620)
+[2023.03.29-23.15.44:862][135]LogModuleManager: Shutting down and abandoning module GameplayDebugger (619)
+[2023.03.29-23.15.44:862][135]LogModuleManager: Shutting down and abandoning module AITestSuite (617)
+[2023.03.29-23.15.44:862][135]LogModuleManager: Shutting down and abandoning module NavigationSystem (615)
+[2023.03.29-23.15.44:862][135]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (612)
+[2023.03.29-23.15.44:865][135]LogModuleManager: Shutting down and abandoning module ProfilerService (610)
+[2023.03.29-23.15.44:868][135]LogModuleManager: Shutting down and abandoning module TaskGraph (608)
+[2023.03.29-23.15.44:869][135]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (606)
+[2023.03.29-23.15.44:869][135]LogModuleManager: Shutting down and abandoning module OculusEditor (604)
+[2023.03.29-23.15.44:871][135]LogModuleManager: Shutting down and abandoning module OculusInput (602)
+[2023.03.29-23.15.44:871][135]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (600)
+[2023.03.29-23.15.44:871][135]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (598)
+[2023.03.29-23.15.44:871][135]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (596)
+[2023.03.29-23.15.44:871][135]LogModuleManager: Shutting down and abandoning module CollectionManager (595)
+[2023.03.29-23.15.44:871][135]LogModuleManager: Shutting down and abandoning module SynthesisEditor (592)
+[2023.03.29-23.15.44:871][135]LogModuleManager: Shutting down and abandoning module Synthesis (590)
+[2023.03.29-23.15.44:872][135]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (588)
+[2023.03.29-23.15.44:872][135]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (586)
+[2023.03.29-23.15.44:872][135]LogModuleManager: Shutting down and abandoning module TakeSequencer (584)
+[2023.03.29-23.15.44:872][135]LogModuleManager: Shutting down and abandoning module TakeMovieScene (582)
+[2023.03.29-23.15.44:872][135]LogModuleManager: Shutting down and abandoning module OpenXREditor (580)
+[2023.03.29-23.15.44:872][135]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (578)
+[2023.03.29-23.15.44:872][135]LogModuleManager: Shutting down and abandoning module ScreenshotTools (576)
+[2023.03.29-23.15.44:872][135]LogModuleManager: Shutting down and abandoning module GooglePAD (574)
+[2023.03.29-23.15.44:872][135]LogModuleManager: Shutting down and abandoning module EditableMesh (572)
+[2023.03.29-23.15.44:872][135]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (570)
+[2023.03.29-23.15.44:872][135]LogModuleManager: Shutting down and abandoning module CableComponent (568)
+[2023.03.29-23.15.44:872][135]LogModuleManager: Shutting down and abandoning module AudioCapture (566)
+[2023.03.29-23.15.44:872][135]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (565)
+[2023.03.29-23.15.44:873][135]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (562)
+[2023.03.29-23.15.44:873][135]LogModuleManager: Shutting down and abandoning module AssetTags (560)
+[2023.03.29-23.15.44:873][135]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (558)
+[2023.03.29-23.15.44:873][135]LogModuleManager: Shutting down and abandoning module AppleImageUtils (556)
+[2023.03.29-23.15.44:873][135]LogModuleManager: Shutting down and abandoning module AndroidPermission (554)
+[2023.03.29-23.15.44:873][135]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (552)
+[2023.03.29-23.15.44:873][135]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (550)
+[2023.03.29-23.15.44:873][135]LogModuleManager: Shutting down and abandoning module TemplateSequence (548)
+[2023.03.29-23.15.44:873][135]LogModuleManager: Shutting down and abandoning module ImgMedia (546)
+[2023.03.29-23.15.44:873][135]LogModuleManager: Shutting down and abandoning module MediaCompositing (544)
+[2023.03.29-23.15.44:873][135]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (542)
+[2023.03.29-23.15.44:873][135]LogOpenImageDenoise: OIDN shutting down
+[2023.03.29-23.15.44:873][135]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (540)
+[2023.03.29-23.15.44:873][135]LogModuleManager: Shutting down and abandoning module MotoSynth (538)
+[2023.03.29-23.15.44:873][135]LogModuleManager: Shutting down and abandoning module MeshConversion (536)
+[2023.03.29-23.15.44:874][135]LogModuleManager: Shutting down and abandoning module DynamicMesh (534)
+[2023.03.29-23.15.44:874][135]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (532)
+[2023.03.29-23.15.44:875][135]LogModuleManager: Shutting down and abandoning module GeometricObjects (530)
+[2023.03.29-23.15.44:875][135]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (528)
+[2023.03.29-23.15.44:875][135]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (527)
+[2023.03.29-23.15.44:875][135]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (524)
+[2023.03.29-23.15.44:875][135]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (522)
+[2023.03.29-23.15.44:875][135]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (520)
+[2023.03.29-23.15.44:876][135]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (518)
+[2023.03.29-23.15.44:876][135]LogModuleManager: Shutting down and abandoning module ChaosNiagara (516)
+[2023.03.29-23.15.44:877][135]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (514)
+[2023.03.29-23.15.44:877][135]LogModuleManager: Shutting down and abandoning module FractureEditor (512)
+[2023.03.29-23.15.44:877][135]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (511)
+[2023.03.29-23.15.44:877][135]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (508)
+[2023.03.29-23.15.44:877][135]LogModuleManager: Shutting down and abandoning module BackChannel (506)
+[2023.03.29-23.15.44:878][135]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (504)
+[2023.03.29-23.15.44:878][135]LogModuleManager: Shutting down and abandoning module AutomationUtils (502)
+[2023.03.29-23.15.44:878][135]LogModuleManager: Shutting down and abandoning module AlembicImporter (500)
+[2023.03.29-23.15.44:878][135]LogModuleManager: Shutting down and abandoning module AlembicLibrary (499)
+[2023.03.29-23.15.44:878][135]LogModuleManager: Shutting down and abandoning module GeometryCache (498)
+[2023.03.29-23.15.44:878][135]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (497)
+[2023.03.29-23.15.44:878][135]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (492)
+[2023.03.29-23.15.44:878][135]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (490)
+[2023.03.29-23.15.44:879][135]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (488)
+[2023.03.29-23.15.44:879][135]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (486)
+[2023.03.29-23.15.44:879][135]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (484)
+[2023.03.29-23.15.44:880][135]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (482)
+[2023.03.29-23.15.44:880][135]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (480)
+[2023.03.29-23.15.44:880][135]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (478)
+[2023.03.29-23.15.44:880][135]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (476)
+[2023.03.29-23.15.44:880][135]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (474)
+[2023.03.29-23.15.44:880][135]LogModuleManager: Shutting down and abandoning module UObjectPlugin (472)
+[2023.03.29-23.15.44:880][135]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (470)
+[2023.03.29-23.15.44:880][135]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (468)
+[2023.03.29-23.15.44:880][135]LogModuleManager: Shutting down and abandoning module PluginUtils (466)
+[2023.03.29-23.15.44:880][135]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (464)
+[2023.03.29-23.15.44:881][135]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (462)
+[2023.03.29-23.15.44:882][135]LogModuleManager: Shutting down and abandoning module GitSourceControl (460)
+[2023.03.29-23.15.44:882][135]LogModuleManager: Shutting down and abandoning module SourceControl (459)
+[2023.03.29-23.15.44:882][135]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (456)
+[2023.03.29-23.15.44:882][135]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (454)
+[2023.03.29-23.15.44:882][135]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (452)
+[2023.03.29-23.15.44:882][135]LogModuleManager: Shutting down and abandoning module PluginBrowser (450)
+[2023.03.29-23.15.44:883][135]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (448)
+[2023.03.29-23.15.44:883][135]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (446)
+[2023.03.29-23.15.44:884][135]LogModuleManager: Shutting down and abandoning module CurveEditorTools (444)
+[2023.03.29-23.15.44:884][135]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (442)
+[2023.03.29-23.15.44:884][135]LogModuleManager: Shutting down and abandoning module CryptoKeys (440)
+[2023.03.29-23.15.44:884][135]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (438)
+[2023.03.29-23.15.44:884][135]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (436)
+[2023.03.29-23.15.44:884][135]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (434)
+[2023.03.29-23.15.44:884][135]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (432)
+[2023.03.29-23.15.44:884][135]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (430)
+[2023.03.29-23.15.44:884][135]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (428)
+[2023.03.29-23.15.44:885][135]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (426)
+[2023.03.29-23.15.44:885][135]LogModuleManager: Shutting down and abandoning module LiveLink (424)
+[2023.03.29-23.15.45:663][135]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (422)
+[2023.03.29-23.15.45:663][135]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (420)
+[2023.03.29-23.15.45:664][135]LogModuleManager: Shutting down and abandoning module Paper2DEditor (418)
+[2023.03.29-23.15.45:665][135]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (416)
+[2023.03.29-23.15.45:665][135]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (414)
+[2023.03.29-23.15.45:666][135]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2023.03.29-23.15.45:666][135]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (408)
+[2023.03.29-23.15.45:666][135]LogModuleManager: Shutting down and abandoning module SignificanceManager (406)
+[2023.03.29-23.15.45:666][135]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2023.03.29-23.15.45:666][135]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2023.03.29-23.15.45:666][135]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2023.03.29-23.15.45:666][135]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2023.03.29-23.15.45:666][135]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2023.03.29-23.15.45:666][135]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2023.03.29-23.15.45:666][135]LogModuleManager: Shutting down and abandoning module UdpMessaging (390)
+[2023.03.29-23.15.45:766][135]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2023.03.29-23.15.45:867][135]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (386)
+[2023.03.29-23.15.45:867][135]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (384)
+[2023.03.29-23.15.45:867][135]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (382)
+[2023.03.29-23.15.45:867][135]LogModuleManager: Shutting down and abandoning module Niagara (380)
+[2023.03.29-23.15.45:868][135]LogModuleManager: Shutting down and abandoning module SignalProcessing (379)
+[2023.03.29-23.15.45:868][135]LogModuleManager: Shutting down and abandoning module NiagaraEditor (377)
+[2023.03.29-23.15.45:869][135]LogModuleManager: Shutting down and abandoning module NiagaraCore (374)
+[2023.03.29-23.15.45:869][135]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (372)
+[2023.03.29-23.15.45:869][135]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (370)
+[2023.03.29-23.15.45:869][135]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (368)
+[2023.03.29-23.15.45:869][135]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (366)
+[2023.03.29-23.15.45:869][135]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (364)
+[2023.03.29-23.15.45:869][135]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.03.29-23.15.45:869][135]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (362)
+[2023.03.29-23.15.45:869][135]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (360)
+[2023.03.29-23.15.45:869][135]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (358)
+[2023.03.29-23.15.45:869][135]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (356)
+[2023.03.29-23.15.45:869][135]LogModuleManager: Shutting down and abandoning module MagicLeapController (354)
+[2023.03.29-23.15.45:870][135]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (352)
+[2023.03.29-23.15.45:870][135]LogModuleManager: Shutting down and abandoning module MagicLeapAR (350)
+[2023.03.29-23.15.45:870][135]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (348)
+[2023.03.29-23.15.45:870][135]LogModuleManager: Shutting down and abandoning module AnimationSharing (346)
+[2023.03.29-23.15.45:870][135]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (344)
+[2023.03.29-23.15.45:870][135]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (342)
+[2023.03.29-23.15.45:870][135]LogModuleManager: Shutting down and abandoning module FacialAnimation (340)
+[2023.03.29-23.15.45:870][135]LogModuleManager: Shutting down and abandoning module DataValidation (338)
+[2023.03.29-23.15.45:870][135]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (336)
+[2023.03.29-23.15.45:870][135]LogModuleManager: Shutting down and abandoning module LevelEditor (335)
+[2023.03.29-23.15.45:872][135]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (334)
+[2023.03.29-23.15.45:872][135]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (332)
+[2023.03.29-23.15.45:872][135]LogModuleManager: Shutting down and abandoning module MainFrame (330)
+[2023.03.29-23.15.45:873][135]LogModuleManager: Shutting down and abandoning module HotReload (329)
+[2023.03.29-23.15.45:873][135]LogModuleManager: Shutting down and abandoning module ToolMenus (325)
+[2023.03.29-23.15.45:873][135]LogModuleManager: Shutting down and abandoning module ContentBrowser (323)
+[2023.03.29-23.15.45:873][135]LogModuleManager: Shutting down and abandoning module ContentBrowserData (322)
+[2023.03.29-23.15.45:873][135]LogModuleManager: Shutting down and abandoning module TreeMap (319)
+[2023.03.29-23.15.45:873][135]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2023.03.29-23.15.45:873][135]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2023.03.29-23.15.45:873][135]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2023.03.29-23.15.45:874][135]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2023.03.29-23.15.45:874][135]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2023.03.29-23.15.45:879][135]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2023.03.29-23.15.45:880][135]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2023.03.29-23.15.45:880][135]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2023.03.29-23.15.45:880][135]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2023.03.29-23.15.45:880][135]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2023.03.29-23.15.45:881][135]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2023.03.29-23.15.45:881][135]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2023.03.29-23.15.45:881][135]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2023.03.29-23.15.45:881][135]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2023.03.29-23.15.45:881][135]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2023.03.29-23.15.45:882][135]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2023.03.29-23.15.45:882][135]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2023.03.29-23.15.45:882][135]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2023.03.29-23.15.45:882][135]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2023.03.29-23.15.45:883][135]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2023.03.29-23.15.45:883][135]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2023.03.29-23.15.45:883][135]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2023.03.29-23.15.45:883][135]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2023.03.29-23.15.45:883][135]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2023.03.29-23.15.45:885][135]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2023.03.29-23.15.45:885][135]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2023.03.29-23.15.45:886][135]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2023.03.29-23.15.45:886][135]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2023.03.29-23.15.45:886][135]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2023.03.29-23.15.45:886][135]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2023.03.29-23.15.45:886][135]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2023.03.29-23.15.45:886][135]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2023.03.29-23.15.45:886][135]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2023.03.29-23.15.45:886][135]LogModuleManager: Shutting down and abandoning module Core (248)
+[2023.03.29-23.15.45:886][135]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2023.03.29-23.15.45:887][135]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2023.03.29-23.15.45:888][135]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2023.03.29-23.15.45:888][135]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2023.03.29-23.15.45:888][135]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2023.03.29-23.15.45:889][135]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2023.03.29-23.15.45:889][135]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2023.03.29-23.15.45:889][135]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2023.03.29-23.15.45:890][135]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2023.03.29-23.15.45:890][135]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2023.03.29-23.15.45:890][135]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2023.03.29-23.15.45:890][135]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2023.03.29-23.15.45:891][135]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2023.03.29-23.15.45:892][135]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2023.03.29-23.15.45:892][135]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2023.03.29-23.15.45:892][135]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2023.03.29-23.15.45:892][135]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2023.03.29-23.15.45:893][135]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2023.03.29-23.15.45:893][135]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2023.03.29-23.15.45:894][135]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2023.03.29-23.15.45:894][135]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2023.03.29-23.15.45:894][135]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2023.03.29-23.15.45:895][135]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2023.03.29-23.15.45:895][135]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2023.03.29-23.15.45:895][135]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2023.03.29-23.15.45:895][135]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2023.03.29-23.15.45:895][135]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2023.03.29-23.15.45:895][135]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2023.03.29-23.15.45:896][135]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2023.03.29-23.15.45:896][135]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2023.03.29-23.15.45:896][135]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2023.03.29-23.15.45:896][135]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2023.03.29-23.15.45:896][135]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2023.03.29-23.15.45:896][135]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2023.03.29-23.15.45:896][135]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2023.03.29-23.15.45:896][135]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2023.03.29-23.15.45:897][135]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2023.03.29-23.15.45:897][135]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2023.03.29-23.15.45:897][135]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2023.03.29-23.15.45:901][135]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2023.03.29-23.15.45:901][135]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2023.03.29-23.15.45:901][135]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2023.03.29-23.15.45:901][135]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2023.03.29-23.15.45:901][135]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2023.03.29-23.15.45:907][135]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2023.03.29-23.15.45:907][135]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2023.03.29-23.15.45:907][135]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2023.03.29-23.15.45:907][135]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2023.03.29-23.15.45:907][135]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2023.03.29-23.15.45:907][135]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2023.03.29-23.15.45:907][135]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2023.03.29-23.15.45:907][135]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2023.03.29-23.15.45:907][135]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2023.03.29-23.15.45:910][135]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2023.03.29-23.15.45:923][135]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2023.03.29-23.15.45:923][135]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2023.03.29-23.15.45:923][135]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2023.03.29-23.15.45:923][135]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2023.03.29-23.15.45:923][135]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2023.03.29-23.15.45:924][135]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2023.03.29-23.15.45:924][135]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.03.29-23.15.45:925][135]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2023.03.29-23.15.45:925][135]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2023.03.29-23.15.45:925][135]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2023.03.29-23.15.45:925][135]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2023.03.29-23.15.45:925][135]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2023.03.29-23.15.45:925][135]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2023.03.29-23.15.45:926][135]LogHMD: Freeing OpenVRDLLHandle.
+[2023.03.29-23.15.45:926][135]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2023.03.29-23.15.45:926][135]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2023.03.29-23.15.45:926][135]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.03.29-23.15.45:926][135]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2023.03.29-23.15.45:926][135]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2023.03.29-23.15.45:926][135]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2023.03.29-23.15.45:926][135]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2023.03.29-23.15.45:927][135]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2023.03.29-23.15.45:927][135]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (96)
+[2023.03.29-23.15.45:927][135]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2023.03.29-23.15.45:928][135]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2023.03.29-23.15.45:928][135]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2023.03.29-23.15.45:929][135]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2023.03.29-23.15.45:930][135]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2023.03.29-23.15.45:956][135]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2023.03.29-23.15.45:956][135]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.03.29-23.15.45:956][135]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B692EA636-4579-A29B-A5FA-F09AE0CD0403%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=975da89c4e35fbce944229b0f3891e51%7Cd8b32f678a9647f58515896249c7aacb%7C4bb4740d-696f-4716-853c-93adf2838045&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.03.29-23.15.45:956][135]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2023.03.29-23.15.45:981][135]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2023.03.29-23.15.45:982][135]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2023.03.29-23.15.45:984][135]LogModuleManager: Shutting down and abandoning module Media (73)
+[2023.03.29-23.15.45:984][135]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2023.03.29-23.15.45:984][135]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2023.03.29-23.15.45:985][135]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2023.03.29-23.15.45:986][135]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2023.03.29-23.15.45:986][135]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2023.03.29-23.15.45:986][135]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2023.03.29-23.15.45:986][135]LogModuleManager: Shutting down and abandoning module MLSDK (58)
+[2023.03.29-23.15.45:986][135]LogModuleManager: Shutting down and abandoning module DatasmithContent (56)
+[2023.03.29-23.15.45:986][135]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2023.03.29-23.15.45:986][135]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2023.03.29-23.15.45:986][135]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.03.29-23.15.45:986][135]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.03.29-23.15.45:986][135]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2023.03.29-23.15.45:987][135]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2023.03.29-23.15.45:987][135]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2023.03.29-23.15.45:987][135]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2023.03.29-23.15.45:987][135]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2023.03.29-23.15.45:987][135]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2023.03.29-23.15.45:988][135]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2023.03.29-23.15.45:988][135]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.03.29-23.15.45:988][135]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2023.03.29-23.15.45:989][135]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.03.29-23.15.45:989][135]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.03.29-23.15.45:989][135]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.03.29-23.15.45:989][135]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.03.29-23.15.45:992][135]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.03.29-23.15.45:993][135]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.03.29-23.15.45:993][135]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.03.29-23.15.45:993][135]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.03.29-23.15.45:993][135]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.03.29-23.15.45:994][135]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.03.29-23.15.45:994][135]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.03.29-23.15.45:994][135]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.03.29-23.15.45:994][135]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.03.29-23.15.45:994][135]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.03.29-23.15.45:994][135]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.03.29-23.15.46:008][135]LogD3D11RHI: Shutdown
+[2023.03.29-23.15.46:008][135]LogD3D11RHI: CleanupD3DDevice
+[2023.03.29-23.15.46:016][135]LogExit: Exiting.
+[2023.03.29-23.15.46:033][135]Log file closed, 03/30/23 01:15:46

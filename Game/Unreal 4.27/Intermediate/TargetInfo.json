@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BattleGridMech",
+			"Path": "C:\\Program Files\\Epic Games\\UE_4.27\\BattleGridMech\\Game\\Unreal 4.27\\Source\\BattleGridMech.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BattleGridMechEditor",
+			"Path": "C:\\Program Files\\Epic Games\\UE_4.27\\BattleGridMech\\Game\\Unreal 4.27\\Source\\BattleGridMechEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

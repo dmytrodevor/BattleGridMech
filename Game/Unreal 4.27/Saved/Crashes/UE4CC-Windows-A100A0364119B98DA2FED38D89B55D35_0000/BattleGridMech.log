@@ -1,0 +1,1652 @@
+﻿Log file open, 03/28/23 16:50:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BattleGridMech
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.208738
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600G with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.03.28-14.50.29:559][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.03.28-14.50.29:559][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.03.28-14.50.29:559][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.28-14.50.29:559][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.03.28-14.50.29:559][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.28-14.50.29:559][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.28-14.50.29:559][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.03.28-14.50.29:559][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.03.28-14.50.29:559][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.03.28-14.50.29:559][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.03.28-14.50.29:559][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.03.28-14.50.29:559][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.03.28-14.50.29:559][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.03.28-14.50.29:560][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.28-14.50.29:560][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.28-14.50.29:564][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.28-14.50.29:564][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.28-14.50.29:565][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.28-14.50.29:565][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.03.28-14.50.29:565][  0]LogHAL: Display: Platform has ~ 16 GB [16483504128 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.28-14.50.29:565][  0]LogInit: Going up to parent DeviceProfile []
+[2023.03.28-14.50.29:565][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.28-14.50.29:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.28-14.50.29:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.28-14.50.29:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.28-14.50.29:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.28-14.50.29:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.28-14.50.29:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.28-14.50.29:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.28-14.50.29:566][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.28-14.50.29:566][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.28-14.50.29:566][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.28-14.50.29:566][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.28-14.50.29:566][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.03.28-14.50.29:566][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.28-14.50.29:566][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.28-14.50.29:566][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.28-14.50.29:566][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.28-14.50.29:566][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.03.28-14.50.29:566][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.03.28-14.50.29:566][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.03.28-14.50.29:566][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Engine.ini]
+[2023.03.28-14.50.29:566][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../BattleGridMech/Game/Unreal 4.27/Saved/Config/Windows/Editor.ini]
+[2023.03.28-14.50.29:566][  0]LogInit: Computer: DESKTOP-ID3KDQ6
+[2023.03.28-14.50.29:566][  0]LogInit: User: rulen
+[2023.03.28-14.50.29:566][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.03.28-14.50.29:566][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.28-14.50.29:566][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2023.03.28-14.50.29:566][  0]LogMemory: Platform Memory Stats for Windows
+[2023.03.28-14.50.29:566][  0]LogMemory: Process Physical Memory: 144.39 MB used, 144.40 MB peak
+[2023.03.28-14.50.29:566][  0]LogMemory: Process Virtual Memory: 127.97 MB used, 127.97 MB peak
+[2023.03.28-14.50.29:566][  0]LogMemory: Physical Memory: 10228.45 MB used,  5491.44 MB free, 15719.89 MB total
+[2023.03.28-14.50.29:566][  0]LogMemory: Virtual Memory: 134212200.00 MB used,  5527.93 MB free, 134217728.00 MB total
+[2023.03.28-14.50.29:570][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.28-14.50.29:588][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.03.28-14.50.29:589][  0]LogInit: Using OS detected language (en-US).
+[2023.03.28-14.50.29:589][  0]LogInit: Using OS detected locale (en-US).
+[2023.03.28-14.50.29:594][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.03.28-14.50.29:783][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.28-14.50.29:792][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.28-14.50.29:805][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.28-14.50.29:805][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.28-14.50.29:928][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.03.28-14.50.29:932][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.03.28-14.50.29:932][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.03.28-14.50.29:932][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.03.28-14.50.29:932][  0]LogD3D11RHI: D3D11 adapters:
+[2023.03.28-14.50.29:974][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2023.03.28-14.50.29:974][  0]LogD3D11RHI:       496/0/7859 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2023.03.28-14.50.29:976][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.03.28-14.50.29:976][  0]LogD3D11RHI:       0/0/7859 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.03.28-14.50.29:976][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.03.28-14.50.29:976][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2023.03.28-14.50.29:976][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.03.28-14.50.29:976][  0]LogD3D11RHI:     DeviceId    : 1638
+[2023.03.28-14.50.29:976][  0]LogD3D11RHI:     SubSysId    : d0001458
+[2023.03.28-14.50.29:976][  0]LogD3D11RHI:     Revision    : 00c9
+[2023.03.28-14.50.29:976][  0]LogD3D11RHI:     DedicatedVideoMemory : 520273920 bytes
+[2023.03.28-14.50.29:976][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.28-14.50.29:976][  0]LogD3D11RHI:     SharedSystemMemory : 8241752064 bytes
+[2023.03.28-14.50.29:976][  0]LogD3D11RHI:     AdapterLuid : 0 39588
+[2023.03.28-14.50.29:984][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.03.28-14.50.29:984][  0]LogD3D11RHI:     GPU DeviceId: 0x1638 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.28-14.50.29:984][  0]LogWindows: EnumDisplayDevices:
+[2023.03.28-14.50.29:984][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2023.03.28-14.50.29:985][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.03.28-14.50.29:985][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.03.28-14.50.29:985][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2023.03.28-14.50.29:985][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) Graphics
+[2023.03.28-14.50.29:985][  0]LogD3D11RHI:   Driver Version: Adrenalin 21.30.14 (internal:30.0.13014.8, unified:30.0.13014.8)
+[2023.03.28-14.50.29:985][  0]LogD3D11RHI:      Driver Date: 8-26-2021
+[2023.03.28-14.50.29:985][  0]LogRHI: Texture pool is 5377 MB (70% of 7682 MB)
+[2023.03.28-14.50.29:991][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2023.03.28-14.50.29:991][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2023.03.28-14.50.29:991][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.03.28-14.50.29:991][  0]LogD3D11RHI:     DeviceId    : 1638
+[2023.03.28-14.50.29:991][  0]LogD3D11RHI:     SubSysId    : d0001458
+[2023.03.28-14.50.29:991][  0]LogD3D11RHI:     Revision    : 00c9
+[2023.03.28-14.50.29:991][  0]LogD3D11RHI:     DedicatedVideoMemory : 520273920 bytes
+[2023.03.28-14.50.29:991][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.28-14.50.29:991][  0]LogD3D11RHI:     SharedSystemMemory : 8241752064 bytes
+[2023.03.28-14.50.29:991][  0]LogD3D11RHI:     AdapterLuid : 0 39588
+[2023.03.28-14.50.30:019][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2023.03.28-14.50.30:019][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.03.28-14.50.30:019][  0]LogD3D11RHI: Async texture creation enabled
+[2023.03.28-14.50.30:019][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.03.28-14.50.30:031][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2023.03.28-14.50.30:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.03.28-14.50.30:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.28-14.50.30:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.28-14.50.30:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.28-14.50.30:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.28-14.50.30:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.28-14.50.30:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.28-14.50.30:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.28-14.50.30:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.28-14.50.30:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.28-14.50.30:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.28-14.50.30:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.28-14.50.30:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.28-14.50.30:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.28-14.50.30:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.03.28-14.50.30:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.28-14.50.30:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.28-14.50.30:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.03.28-14.50.30:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.03.28-14.50.30:366][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.03.28-14.50.30:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.03.28-14.50.30:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.03.28-14.50.30:401][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.03.28-14.50.30:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.03.28-14.50.30:410][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.03.28-14.50.30:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.03.28-14.50.30:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.28-14.50.30:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.28-14.50.30:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.03.28-14.50.30:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.28-14.50.30:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.28-14.50.30:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.28-14.50.30:453][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.03.28-14.50.30:459][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.28-14.50.30:490][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.03.28-14.50.30:521][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.28-14.50.30:521][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (../../../BattleGridMech/Game/Unreal 4.27/Intermediate/Shaders/WorkingDirectory/6636/).
+[2023.03.28-14.50.30:521][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rulen/AppData/Local/Temp/UnrealShaderWorkingDir/0F8F4A1F4E88D663F5F72CA820506E2A/'.
+[2023.03.28-14.50.30:521][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.28-14.50.30:521][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.03.28-14.50.30:521][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.03.28-14.50.31:166][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.03.28-14.50.31:232][  0]LogDerivedDataCache: Loaded boot cache 0.07s 94MB C:/Users/rulen/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.28-14.50.31:232][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rulen/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.03.28-14.50.31:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../BattleGridMech/Game/Unreal 4.27/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.28-14.50.31:232][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.03.28-14.50.31:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../BattleGridMech/Game/Unreal 4.27/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.28-14.50.31:232][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.03.28-14.50.31:249][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.03.28-14.50.31:249][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.28-14.50.31:249][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.03.28-14.50.31:256][  0]LogDerivedDataCache: Speed tests for C:/Users/rulen/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.03.28-14.50.31:256][  0]LogDerivedDataCache: Display: Performance to C:/Users/rulen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=363.74MBs, RandomWriteSpeed=223.81MBs. Assigned SpeedClass 'Local'
+[2023.03.28-14.50.31:257][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rulen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.28-14.50.31:257][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.28-14.50.31:257][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.03.28-14.50.31:293][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.28-14.50.31:293][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.28-14.50.31:310][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2023.03.28-14.50.31:517][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.28-14.50.31:517][  0]LogInit: Active device profile: [000002AE01AA4E00][000002AE7AF80380 49] Windows
+[2023.03.28-14.50.31:517][  0]LogInit: Profiles: [000002AE01AA4E00][000002AE7AF80380 49] Windows, [000002AE01A6A300][000002AE00FFA4C0 49] WindowsNoEditor, [000002AE01AA5D00][000002AE00F54600 49] WindowsServer, [000002AE01A6B100][000002AE00F58740 49] WindowsClient, [000002AE01AA6A00][000002AE00F648C0 49] IOS, [000002AE01A6B700][000002AE00F68A40 49] iPadAir, [000002AE01AA5500][000002AE00F6CBC0 49] iPadAir2, [000002AE019ED300][000002AE00F78E80 49] IPadPro, [000002AE019ED400][000002AE00F74EC0 49] iPadAir3, [000002AE01A68C00][000002AE7E4BB040 49] iPadAir4, [000002AE019EE000][000002AE7E4BF1C0 49] iPadMini2, [000002AE01A6AF00][000002AE7E4C3340 49] iPadMini3, [000002AE019EEA00][000002AE7A90B4C0 49] iPadMini4, [000002AE01A68F00][000002AE00F5D640 49] iPadMini5, [000002AE01A2CB00][000002AE7E4D1900 49] iPhone6, [000002AE01A2CC00][000002AE7A90F940 49] iPodTouch6, [000002AE01AA6900][000002AE7AF39C00 49] iPhone7, [000002AE01AA4F00][000002AE7E4D40C0 49] iPodTouch7, [000002AE019ED200][000002AE00F50240 49] iPhone5S, [000002AE01AA6C00][000002AE00F703C0 49] iPhone6Plus, [000002AE019EFD00][000002AE7AF3C540 49] iPhone6S, [000002AE019EC100][000002AE00F60680 49] iPhone6SPlus, [000002AE01A2FF00][000002AE7AF407C0 49] iPhone7Plus, [000002AE019EE200][000002AE7AF44900 49] iPhoneSE, [000002AE01A2E800][000002AE7AF4CA80 49] iPhone8, [000002AE019EE500][000002AE7AF50C00 49] iPhone8Plus, [000002AE01A2F900][000002AE7A94CD80 49] iPhoneX, [000002AE019EE400][000002AE7A950F00 49] iPhoneXS, [000002AE01A2CE00][000002AE7A955080 49] iPhoneXSMax, [000002AE01AA5800][000002AE7A959200 49] iPhoneXR, [000002AE01A2D600][000002AE7A95D380 49] iPhone11, [000002AE01AA5A00][000002AE7A961500 49] iPhone11Pro, [000002AE01A2D800][000002AE7A965680 49] iPhone11ProMax, [000002AE01AA5100][000002AE7A969800 49] iPhoneSE2, [000002AE01A2FA00][000002AE7AF55980 49] iPhone12Mini, [000002AE01AA4B00][000002AE7AF59B00 49] iPhone12, [000002AE01A2DC00][000002AE7AF5C100 49] iPhone12Pro, [000002AE01AA5000][000002AE7AF60280 49] iPhone12ProMax, [000002AE01A2F600][000002AE7AF64400 49] iPadPro105, [000002AE01AA7800][000002AE7AF68580 49] iPadPro129, [000002AE01A2C300][000002AE7AF6C700 49] iPadPro97, [000002AE01AA5400][000002AE7AF48840 49] iPadPro2_129, [000002AE01A2D300][000002AE7AF70980 49] iPad5, [000002AE01AA7A00][000002AE00F28AC0 49] iPad6, [000002AE01A2FC00][000002AE00F30C40 49] iPad7, [000002AE01AA7200][000002AE00F34DC0 49] iPad8, [000002AE01A2F200][000002AE00F38F40 49] iPadPro11, [000002AE01AA6F00][000002AE00F3D0C0 49] iPadPro2_11, [000002AE01A2E200][000002AE00F41240 49] iPadPro3_129, [000002AE01AA4700][000002AE00F453C0 49] iPadPro4_129, [000002AE01A2D000][000002AE00F49540 49] AppleTV, [000002AE01AA7100][000002AE00F4D6C0 49] AppleTV4K, [000002AE01A2E100][000002AE00F91840 49] TVOS, [000002AE01AA6100][000002AE00F959C0 49] Mac, [000002AE01A2F500][000002AE00F99B40 49] MacClient, [000002AE01AA7B00][000002AE00F9C140 49] MacNoEditor, [000002AE01A2CD00][000002AE00FA02C0 49] MacServer, [000002AE01AA6E00][000002AE00FA4440 49] Linux, [000002AE01A2DF00][000002AE00FA85C0 49] LinuxAArch64, [000002AE01AA4A00][000002AE00FAC740 49] LinuxNoEditor, [000002AE01A2F000][000002AE00FB08C0 49] LinuxAArch64NoEditor, [000002AE01AA7300][000002AE00F2CA00 49] LinuxClient, [000002AE01A2E700][000002AE00FB4B40 49] LinuxAArch64Client, [000002AE01AA5B00][000002AE00FB8C80 49] LinuxServer, [000002AE01A2C400][000002AE00FBCDC0 49] LinuxAArch64Server, [000002AE01AA5C00][000002AE00FC4F40 49] Android, [000002AE01A2D400][000002AE00FC90C0 49] Android_Low, [000002AE01AA5E00][000002AE00FCD240 49] Android_Mid, [000002AE01A2E900][000002AE00FD13C0 49] Android_High, [000002AE01AA6000][000002AE7E459540 49] Android_Default, [000002AE01A2F100][000002AE7E45D6C0 49] Android_Adreno4xx, [000002AE01AA6200][000002AE7E461840 49] Android_Adreno5xx_Low, [000002AE01A2FD00][000002AE7E4659C0 49] Android_Adreno5xx, [000002AE01AA4200][000002AE7E469B40 49] Android_Adreno6xx, [000002AE01A2D700][000002AE7E46C140 49] Android_Adreno6xx_Vulkan, [000002AE01AA6700][000002AE7E4702C0 49] Android_Mali_T6xx, [000002AE019ED700][000002AE7E474440 49] Android_Mali_T7xx, [000002AE01A6B000][000002AE7E4785C0 49] Android_Mali_T8xx, [000002AE019EFE00][000002AE7E47C740 49] Android_Mali_G71, [000002AE01A6BB00][000002AE7E4808C0 49] Android_Mali_G72, [000002AE019EFA00][000002AE7E484A40 49] Android_Mali_G72_Vulkan, [000002AE01A6B800][000002AE00FC0B80 49] Android_Mali_G76, [000002AE019EDB00][000002AE7E488CC0 49] Android_Mali_G76_Vulkan, [000002AE01A6A200][000002AE7E48CE00 49] Android_Mali_G77, [000002AE019EF600][000002AE7E490F40 49] Android_Mali_G77_Vulkan, [000002AE01A69F00][000002AE7E4990C0 49] Android_Mali_G78, [000002AE019ED000][000002AE7E49D240 49] Android_Mali_G78_Vulkan, [000002AE01A68500][000002AE7E4A13C0 49] Android_Mali_G710, [000002AE019ED600][000002AE7E4A5540 49] Android_Mali_G710_Vulkan, [000002AE01A6A400][000002AE7E4A96C0 49] Android_Vulkan_SM5, [000002AE019EDA00][000002AE7E4AD840 49] Android_PowerVR_G6xxx, [000002AE01A6AE00][000002AE7E4B19C0 49] Android_PowerVR_GT7xxx, [000002AE019EF300][000002AE7E4B5B40 49] Android_PowerVR_GE8xxx, [000002AE01A69100][000002AE01420140 49] Android_PowerVR_GM9xxx, [000002AE019EDF00][000002AE014242C0 49] Android_PowerVR_GM9xxx_Vulkan, [000002AE01A69500][000002AE01428440 49] Android_TegraK1, [000002AE019EFB00][000002AE0142C5C0 49] Android_Unknown_Vulkan, [000002AE01A68D00][000002AE01430740 49] Lumin, [000002AE019EC600][000002AE014348C0 49] Lumin_Desktop, [000002AE01A2F300][000002AE01438A40 49] HoloLens, 
+[2023.03.28-14.50.31:620][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.28-14.50.31:620][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.28-14.50.31:620][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.28-14.50.31:620][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.28-14.50.31:620][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.28-14.50.31:630][  0]LogNetVersion: BattleGridMech 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3792557966)
+[2023.03.28-14.50.31:933][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.03.28-14.50.31:982][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.03.28-14.50.31:988][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.03.28-14.50.31:988][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.03.28-14.50.31:988][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.28-14.50.32:271][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 2A91496A45D4E1C1D0C68ABCE6F8DC4F | Instance: 3374231C4BC81325C671E58710164F7D (DESKTOP-ID3KDQ6-6636).
+[2023.03.28-14.50.32:308][  0]LogPython: Using Python 3.7.7
+[2023.03.28-14.50.32:894][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.28-14.50.32:902][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.28-14.50.33:050][  0]SourceControl: Source control is disabled
+[2023.03.28-14.50.33:452][  0]LogUProjectInfo: Found projects:
+[2023.03.28-14.50.33:627][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.28-14.50.33:673][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.28-14.50.33:688][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.28-14.50.33:688][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.28-14.50.33:819][  0]LogCollectionManager: Loaded 0 collections in 0.001357 seconds
+[2023.03.28-14.50.33:842][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/Saved/Collections/' took 0.00s
+[2023.03.28-14.50.33:842][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/Content/Developers/rulen/Collections/' took 0.00s
+[2023.03.28-14.50.33:842][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/Content/Collections/' took 0.00s
+[2023.03.28-14.50.33:842][  0]LogOcInput: OculusInput pre-init called
+[2023.03.28-14.50.34:038][  0]LogEngine: Initializing Engine...
+[2023.03.28-14.50.34:040][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.03.28-14.50.34:040][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.03.28-14.50.34:040][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.03.28-14.50.34:041][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.03.28-14.50.34:152][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.28-14.50.34:159][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.28-14.50.34:173][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.28-14.50.34:176][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.28-14.50.34:177][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.28-14.50.34:177][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.28-14.50.34:177][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.28-14.50.34:177][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-14.50.34:177][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-14.50.34:177][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-14.50.34:177][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-14.50.34:177][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-14.50.34:177][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.28-14.50.34:177][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-14.50.34:177][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-14.50.34:177][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-14.50.34:177][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-14.50.34:177][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-14.50.34:177][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.28-14.50.34:186][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.28-14.50.34:186][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.03.28-14.50.34:199][  0]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.03.28-14.50.34:201][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-14.50.34:203][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-14.50.34:203][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-14.50.34:204][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.28-14.50.34:204][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.28-14.50.34:204][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.28-14.50.34:205][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.28-14.50.34:205][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.28-14.50.34:205][  0]LogInit: FAudioDevice initialized.
+[2023.03.28-14.50.34:205][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.28-14.50.34:205][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.28-14.50.34:253][  0]LogDerivedDataCache: Saved boot cache 0.05s 94MB C:/Users/rulen/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.28-14.50.34:253][  0]LogInit: Texture streaming: Enabled
+[2023.03.28-14.50.34:264][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.03.28-14.50.34:267][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.28-14.50.34:267][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.03.28-14.50.34:269][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.03.28-14.50.34:292][  0]LogInit: Transaction tracking system initialized
+[2023.03.28-14.50.34:309][  0]BlueprintLog: New page: Editor Load
+[2023.03.28-14.50.34:357][  0]LocalizationService: Localization service is disabled
+[2023.03.28-14.50.34:376][  0]TimingProfiler: Initialize
+[2023.03.28-14.50.34:376][  0]TimingProfiler: OnSessionChanged
+[2023.03.28-14.50.34:376][  0]LoadingProfiler: Initialize
+[2023.03.28-14.50.34:376][  0]LoadingProfiler: OnSessionChanged
+[2023.03.28-14.50.34:376][  0]NetworkingProfiler: Initialize
+[2023.03.28-14.50.34:376][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.28-14.50.34:376][  0]MemoryProfiler: Initialize
+[2023.03.28-14.50.34:376][  0]MemoryProfiler: OnSessionChanged
+[2023.03.28-14.50.34:508][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.03.28-14.50.34:508][  0]LogCook: Display: Mobile HDR setting 1
+[2023.03.28-14.50.34:514][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/Content/' took 0.00s
+[2023.03.28-14.50.34:810][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.28-14.50.34:812][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.180
+[2023.03.28-14.50.34:812][  0]Cmd: MAP LOAD FILE="../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Maps/L_Entry.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.28-14.50.34:812][  0]LightingResults: New page: Lighting Build
+[2023.03.28-14.50.34:813][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-14.50.34:813][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-14.50.34:813][  0]MapCheck: New page: Map Check
+[2023.03.28-14.50.34:813][  0]LightingResults: New page: Lighting Build
+[2023.03.28-14.50.34:817][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-14.50.34:819][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.03.28-14.50.34:825][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Entry'.
+[2023.03.28-14.50.34:826][  0]LogAIModule: Creating AISystem for world L_Entry
+[2023.03.28-14.50.34:827][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/BattleGridMech/Maps/SubLevels/L_Lighting) is flushing async loading
+[2023.03.28-14.50.34:827][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.03.28-14.50.34:835][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/BattleGridMech/Maps/SubLevels/L_Square) is flushing async loading
+[2023.03.28-14.50.34:841][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.28-14.50.34:845][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.28-14.50.34:845][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.28-14.50.34:846][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.265ms to complete.
+[2023.03.28-14.50.34:846][  0]LogFileHelpers: Loading map 'L_Entry' took 0.034
+[2023.03.28-14.50.34:848][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.216
+[2023.03.28-14.50.34:974][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-14.50.34:982][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-14.50.34:990][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-14.50.34:996][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-14.50.35:014][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0124 seconds. Added 3827 classes and 934 folders.
+[2023.03.28-14.50.35:016][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.03.28-14.50.35:017][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.28-14.50.35:017][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:017][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.28-14.50.35:017][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:018][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.03.28-14.50.35:018][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2023.03.28-14.50.35:018][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.28-14.50.35:018][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:018][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.28-14.50.35:018][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:018][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.03.28-14.50.35:018][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2023.03.28-14.50.35:019][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.03.28-14.50.35:019][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:019][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.03.28-14.50.35:019][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:019][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.03.28-14.50.35:019][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2023.03.28-14.50.35:019][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.28-14.50.35:019][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:019][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.28-14.50.35:019][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:020][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.03.28-14.50.35:020][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.03.28-14.50.35:020][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.28-14.50.35:020][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:020][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.28-14.50.35:020][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:020][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.03.28-14.50.35:020][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.03.28-14.50.35:020][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.28-14.50.35:020][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:020][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.28-14.50.35:020][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:020][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.03.28-14.50.35:020][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.03.28-14.50.35:021][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.28-14.50.35:021][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:021][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.28-14.50.35:021][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:021][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.03.28-14.50.35:021][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.03.28-14.50.35:021][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.28-14.50.35:021][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:021][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.28-14.50.35:021][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:021][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.03.28-14.50.35:021][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.03.28-14.50.35:022][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.28-14.50.35:022][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:022][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.28-14.50.35:022][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:022][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.03.28-14.50.35:022][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.28-14.50.35:022][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.28-14.50.35:022][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:022][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.28-14.50.35:022][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:022][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.03.28-14.50.35:022][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2023.03.28-14.50.35:023][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.28-14.50.35:023][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:023][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.28-14.50.35:023][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:023][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.03.28-14.50.35:023][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2023.03.28-14.50.35:024][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.28-14.50.35:024][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:024][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.28-14.50.35:024][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:024][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.03.28-14.50.35:024][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.03.28-14.50.35:024][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.28-14.50.35:024][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:024][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.28-14.50.35:024][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:024][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.03.28-14.50.35:024][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.03.28-14.50.35:025][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.28-14.50.35:025][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:025][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.28-14.50.35:025][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:025][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.03.28-14.50.35:025][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.03.28-14.50.35:025][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.28-14.50.35:025][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:025][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.28-14.50.35:025][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:025][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.03.28-14.50.35:025][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2023.03.28-14.50.35:026][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.28-14.50.35:026][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:026][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.28-14.50.35:026][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:026][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.03.28-14.50.35:026][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.03.28-14.50.35:027][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.28-14.50.35:027][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:027][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.28-14.50.35:027][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:027][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.03.28-14.50.35:027][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.28-14.50.35:027][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.28-14.50.35:027][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:027][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.28-14.50.35:027][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:027][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.03.28-14.50.35:027][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.03.28-14.50.35:028][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.28-14.50.35:028][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:028][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.28-14.50.35:028][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:028][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.03.28-14.50.35:028][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2023.03.28-14.50.35:028][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.28-14.50.35:028][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:028][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.28-14.50.35:028][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:028][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.03.28-14.50.35:028][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.03.28-14.50.35:029][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.28-14.50.35:029][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:029][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.28-14.50.35:029][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:029][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.03.28-14.50.35:029][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.03.28-14.50.35:029][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.28-14.50.35:029][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:029][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.28-14.50.35:029][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:029][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.03.28-14.50.35:029][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.28-14.50.35:030][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.03.28-14.50.35:030][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:030][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.03.28-14.50.35:030][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:030][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.03.28-14.50.35:030][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.03.28-14.50.35:030][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.28-14.50.35:030][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:030][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.28-14.50.35:030][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:030][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.03.28-14.50.35:030][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.03.28-14.50.35:031][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.28-14.50.35:031][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:031][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.28-14.50.35:031][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:031][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.03.28-14.50.35:031][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.03.28-14.50.35:031][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.28-14.50.35:031][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.28-14.50.35:031][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.28-14.50.35:031][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.28-14.50.35:031][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.03.28-14.50.35:031][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.03.28-14.50.35:079][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.03.28-14.50.35:080][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2023.03.28-14.50.35:126][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.28-14.50.35:127][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.28-14.50.35:128][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.28-14.50.35:198][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2023.03.28-14.50.35:249][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.28-14.50.35:351][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.03.28-14.50.35:351][  0]LogLoad: (Engine Initialization) Total time: 6.72 seconds
+[2023.03.28-14.50.35:351][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.28-14.50.35:393][  0]LogAssetRegistry: Asset discovery search completed in 4.0834 seconds
+[2023.03.28-14.50.35:398][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.03.28-14.50.35:400][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.28-14.50.43:325][740]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.03.28-14.50.43:332][740]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.03.28-14.50.48:517][204]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_DebugMenu
+[2023.03.28-14.50.48:610][204]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.03.28-14.50.50:172][344]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.28-14.50.50:192][344]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.03.28-14.50.50:865][344]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2023.03.28-14.50.51:904][344]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.28-14.50.53:990][501]LogSlate: Window 'W_DebugMenu' being destroyed
+[2023.03.28-14.52.59:346][623]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.28-14.53.13:097][729]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" -game -rocket -progress
+[2023.03.28-14.53.13:401][729]Discovering modules, targets and source code for project...
+[2023.03.28-14.53.14:610][729]Binding IntelliSense data...
+[2023.03.28-14.53.16:327][729]Binding IntelliSense data... 100%
+[2023.03.28-14.53.16:327][729]Writing project files...
+[2023.03.28-14.53.19:048][729]Writing project files... 100%
+[2023.03.28-14.53.19:405][729]Candidate modules for hot reload:
+[2023.03.28-14.53.19:405][729]  BattleGridMech
+[2023.03.28-14.53.19:405][729]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleGridMech,7331 BattleGridMechEditor Win64 Development -Project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" "C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject"  -IgnoreJunk]
+[2023.03.28-14.53.25:548][729]CompilerResultsLog: New page: Compilation - Mar 28, 2023, 6:53:25 PM
+[2023.03.28-14.53.25:549][729]CompilerResultsLog: Creating makefile for BattleGridMechEditor (no existing makefile)
+[2023.03.28-14.53.25:549][729]CompilerResultsLog: Parsing headers for BattleGridMechEditor
+[2023.03.28-14.53.25:549][729]CompilerResultsLog:   Running UnrealHeaderTool "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\BattleGridMech.uproject" "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\BattleGridMechEditor\Development\BattleGridMechEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\rulen\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.03.28-14.53.25:549][729]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.03.28-14.53.25:549][729]CompilerResultsLog: Reflection code generated for BattleGridMechEditor in 3.0149681 seconds
+[2023.03.28-14.53.25:549][729]CompilerResultsLog: Building BattleGridMechEditor...
+[2023.03.28-14.53.25:549][729]CompilerResultsLog: Using Visual Studio 2019 14.29.30148 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.03.28-14.53.25:549][729]CompilerResultsLog: Building 6 actions with 12 processes...
+[2023.03.28-14.53.25:549][729]CompilerResultsLog:   [1/6] BattleGridMech.init.gen.cpp
+[2023.03.28-14.53.25:549][729]CompilerResultsLog:   [2/6] DebugMenuBase.cpp
+[2023.03.28-14.53.25:549][729]CompilerResultsLog:   [3/6] DebugMenuBase.gen.cpp
+[2023.03.28-14.53.25:549][729]CompilerResultsLog:   [4/6] UE4Editor-BattleGridMech-7331.lib
+[2023.03.28-14.53.25:549][729]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-7331.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-7331.exp
+[2023.03.28-14.53.25:549][729]CompilerResultsLog:   [5/6] UE4Editor-BattleGridMech-7331.dll
+[2023.03.28-14.53.25:549][729]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-7331.suppressed.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-7331.suppressed.exp
+[2023.03.28-14.53.25:549][729]CompilerResultsLog:   [6/6] BattleGridMechEditor.target
+[2023.03.28-14.53.25:549][729]CompilerResultsLog: Total time in Parallel executor: 1.43 seconds
+[2023.03.28-14.53.25:549][729]CompilerResultsLog: Total execution time: 6.05 seconds
+[2023.03.28-14.53.25:549][729]LogMainFrame: MainFrame: Module compiling took 6.158 seconds
+[2023.03.28-14.53.25:582][729]LogClass: Could not find existing class DebugMenuBase in package /Script/BattleGridMech for HotReload, assuming new class
+[2023.03.28-14.53.25:589][729]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0003 seconds. Added 4 classes and 3 folders.
+[2023.03.28-14.53.25:593][729]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.03.28-14.53.25:664][729]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0086 seconds. Added 3828 classes and 934 folders.
+[2023.03.28-14.53.25:665][729]Display: HotReload took  6.3s.
+[2023.03.28-14.53.25:665][729]Warning: HotReload operation took  6.3s.
+[2023.03.28-14.53.26:061][729]LogVSAccessor: Warning: Couldn't open file 'C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/Source/BattleGridMech/Private/DebugMenuBase.cpp'.
+[2023.03.28-14.53.26:068][729]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.03.28-14.53.26:342][730]LogHotReload: New module detected: UE4Editor-BattleGridMech-7331.dll
+[2023.03.28-14.53.26:358][731]LogHotReload: Starting Hot-Reload from IDE
+[2023.03.28-14.53.26:370][731]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0003 seconds. Added 4 classes and 3 folders.
+[2023.03.28-14.53.26:374][731]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.03.28-14.53.26:387][731]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0090 seconds. Added 3828 classes and 934 folders.
+[2023.03.28-14.53.26:390][731]Display: HotReload took  0.0s.
+[2023.03.28-14.54.14:565][413]BlueprintLog: New page: Compile W_DebugMenu
+[2023.03.28-14.54.14:701][413]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2023.03.28-14.54.15:023][437]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_DebugMenuC88621DA41DEA1191995F38D539773F2.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.03.28-14.54.15:759][437]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.03.28-14.54.15:759][437]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.03.28-15.06.49:070][605]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.28-15.06.49:080][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-15.06.49:080][605]PIE: New page: PIE session: L_Entry (Mar 28, 2023, 7:06:49 PM)
+[2023.03.28-15.06.49:085][605]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.03.28-15.06.49:086][605]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.28-15.06.49:087][605]LogPlayLevel: Creating play world package: /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry
+[2023.03.28-15.06.49:089][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002190s)
+[2023.03.28-15.06.49:090][605]LogAIModule: Creating AISystem for world L_Entry
+[2023.03.28-15.06.49:091][605]LogPlayLevel: PIE: World Init took: (0.001837s)
+[2023.03.28-15.06.49:091][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGridMech/Maps/L_Entry.L_Entry to /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry.L_Entry (0.004382s)
+[2023.03.28-15.06.49:138][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2023.03.28-15.06.49:143][605]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.28-15.06.49:143][605]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-15.06.49:143][605]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-15.06.49:143][605]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-15.06.49:143][605]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-15.06.49:143][605]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-15.06.49:143][605]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.28-15.06.49:143][605]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-15.06.49:143][605]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-15.06.49:144][605]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-15.06.49:144][605]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-15.06.49:144][605]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-15.06.49:144][605]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.28-15.06.49:146][605]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.28-15.06.49:147][605]LogAudioMixer: Display: 1: FrontRight
+[2023.03.28-15.06.49:153][605]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.03.28-15.06.49:153][605]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-15.06.49:153][605]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-15.06.49:153][605]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-15.06.49:153][605]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.28-15.06.49:153][605]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.28-15.06.49:153][605]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.28-15.06.49:154][605]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.28-15.06.49:154][605]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.28-15.06.49:154][605]LogInit: FAudioDevice initialized.
+[2023.03.28-15.06.49:154][605]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_Entry'.
+[2023.03.28-15.06.49:179][605]LogLoad: Game class is 'BP_BattleGridMechGameMode_C'
+[2023.03.28-15.06.49:185][605]LogWorld: Bringing World /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.03.28-17.06.49
+[2023.03.28-15.06.49:186][605]LogWorld: Bringing up level for play took: 0.001329
+[2023.03.28-15.06.49:187][605]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2023.03.28-15.06.49:227][605]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2023.03.28-15.06.49:232][605]PIE: Server logged in
+[2023.03.28-15.06.49:233][605]PIE: Play in editor total start time 0.16 seconds.
+[2023.03.28-15.06.50:220][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-15.06.50:220][685]LogWorld: BeginTearingDown for /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry
+[2023.03.28-15.06.50:223][685]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-15.06.50:223][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-15.06.50:234][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-15.06.50:239][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-15.06.50:258][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-15.06.50:263][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.28-15.06.50:265][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.28-15.06.50:307][685]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2023.03.28-15.06.50:321][686]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.03.28-15.06.50:359][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.03.28-15.17.22:813][877]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.28-15.17.22:813][877]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.28-15.17.53:158][332]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.28-15.17.53:159][332]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.28-15.17.58:754][801]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.28-15.17.58:754][801]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.28-15.18.24:235][950]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" -game -rocket -progress
+[2023.03.28-15.18.24:538][950]Discovering modules, targets and source code for project...
+[2023.03.28-15.18.25:950][950]Binding IntelliSense data...
+[2023.03.28-15.18.27:767][950]Binding IntelliSense data... 100%
+[2023.03.28-15.18.27:767][950]Writing project files...
+[2023.03.28-15.18.30:486][950]Writing project files... 100%
+[2023.03.28-15.18.30:684][950]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2023.03.28-15.18.30:687][950]Candidate modules for hot reload:
+[2023.03.28-15.18.30:687][950]  BattleGridMech
+[2023.03.28-15.18.30:687][950]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleGridMech,8595 BattleGridMechEditor Win64 Development -Project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" "C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject"  -IgnoreJunk]
+[2023.03.28-15.18.41:026][950]CompilerResultsLog: New page: Compilation - Mar 28, 2023, 7:18:41 PM
+[2023.03.28-15.18.41:026][950]CompilerResultsLog: Creating makefile for BattleGridMechEditor (no existing makefile)
+[2023.03.28-15.18.41:026][950]CompilerResultsLog: Parsing headers for BattleGridMechEditor
+[2023.03.28-15.18.41:026][950]CompilerResultsLog:   Running UnrealHeaderTool "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\BattleGridMech.uproject" "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\BattleGridMechEditor\Development\BattleGridMechEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\rulen\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.03.28-15.18.41:026][950]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.03.28-15.18.41:026][950]CompilerResultsLog: Reflection code generated for BattleGridMechEditor in 3.1573099 seconds
+[2023.03.28-15.18.41:026][950]CompilerResultsLog: Building BattleGridMechEditor...
+[2023.03.28-15.18.41:026][950]CompilerResultsLog: Using Visual Studio 2019 14.29.30148 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.03.28-15.18.41:026][950]CompilerResultsLog: Building 6 actions with 12 processes...
+[2023.03.28-15.18.41:026][950]CompilerResultsLog:   [1/6] BattleGridMech.init.gen.cpp
+[2023.03.28-15.18.41:026][950]CompilerResultsLog:   [2/6] MenuWidgetBase.cpp
+[2023.03.28-15.18.41:026][950]CompilerResultsLog:   [3/6] MenuWidgetBase.gen.cpp
+[2023.03.28-15.18.41:026][950]CompilerResultsLog:   [4/6] UE4Editor-BattleGridMech-8595.lib
+[2023.03.28-15.18.41:026][950]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-8595.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-8595.exp
+[2023.03.28-15.18.41:026][950]CompilerResultsLog:   [5/6] UE4Editor-BattleGridMech-8595.dll
+[2023.03.28-15.18.41:026][950]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-8595.suppressed.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-8595.suppressed.exp
+[2023.03.28-15.18.41:026][950]CompilerResultsLog:   [6/6] BattleGridMechEditor.target
+[2023.03.28-15.18.41:026][950]CompilerResultsLog: Total time in Parallel executor: 5.48 seconds
+[2023.03.28-15.18.41:026][950]CompilerResultsLog: Total execution time: 10.27 seconds
+[2023.03.28-15.18.41:026][950]LogMainFrame: MainFrame: Module compiling took 10.342 seconds
+[2023.03.28-15.18.41:064][950]LogClass: Could not find existing class MenuWidgetBase in package /Script/BattleGridMech for HotReload, assuming new class
+[2023.03.28-15.18.41:070][950]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0004 seconds. Added 5 classes and 3 folders.
+[2023.03.28-15.18.41:076][950]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.03.28-15.18.41:135][950]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0088 seconds. Added 3829 classes and 934 folders.
+[2023.03.28-15.18.41:135][950]Display: HotReload took 10.5s.
+[2023.03.28-15.18.41:142][950]Warning: HotReload operation took 10.5s.
+[2023.03.28-15.18.41:340][950]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.03.28-15.18.41:961][952]LogHotReload: New module detected: UE4Editor-BattleGridMech-8595.dll
+[2023.03.28-15.18.42:023][953]LogHotReload: Starting Hot-Reload from IDE
+[2023.03.28-15.18.42:046][953]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0003 seconds. Added 5 classes and 3 folders.
+[2023.03.28-15.18.42:052][953]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.03.28-15.18.42:065][953]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3829 classes and 934 folders.
+[2023.03.28-15.18.42:068][953]Display: HotReload took  0.0s.
+[2023.03.28-15.19.38:386][745]BlueprintLog: New page: Compile W_DebugMenu
+[2023.03.28-15.19.38:477][745]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2023.03.28-15.19.46:795][703]BlueprintLog: New page: Compile W_DebugMenu
+[2023.03.28-15.19.46:840][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2023.03.28-15.19.47:426][763]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_DebugMenu8571CDE44A0444209D944A9C8EB193F7.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.03.28-15.19.47:440][763]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.03.28-15.19.47:440][763]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.03.28-15.19.49:533][  7]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-15.19.49:533][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-15.19.49:538][  7]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-15.19.49:538][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-15.19.55:257][542]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.03.28-15.20.38:738][626]BlueprintLog: New page: Compile W_DebugMenu
+[2023.03.28-15.20.38:799][626]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2023.03.28-15.20.39:353][674]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_DebugMenu462901F94CB0E8A4166F499C45C25D0E.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.03.28-15.20.39:369][674]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.03.28-15.20.39:369][674]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.03.28-15.33.33:052][280]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_DebugMenu494F82BB4BC6C90B4021BFAB10C95242.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.03.28-15.33.33:068][280]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.03.28-15.33.33:068][280]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.03.28-15.37.08:953][275]BlueprintLog: New page: Compile W_DebugMenu
+[2023.03.28-15.37.09:004][275]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2023.03.28-15.37.10:433][404]Candidate modules for hot reload:
+[2023.03.28-15.37.10:433][404]  BattleGridMech
+[2023.03.28-15.37.10:433][404]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleGridMech,9768 BattleGridMechEditor Win64 Development -Project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" "C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject"  -IgnoreJunk]
+[2023.03.28-15.37.10:436][404]Warning: Starting HotReload took  0.0s.
+[2023.03.28-15.37.28:179][807]CompilerResultsLog: New page: Compilation - Mar 28, 2023, 7:37:28 PM
+[2023.03.28-15.37.28:179][807]CompilerResultsLog: Parsing headers for BattleGridMechEditor
+[2023.03.28-15.37.28:179][807]CompilerResultsLog:   Running UnrealHeaderTool "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\BattleGridMech.uproject" "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\BattleGridMechEditor\Development\BattleGridMechEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\rulen\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.03.28-15.37.28:179][807]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.03.28-15.37.28:179][807]CompilerResultsLog: Reflection code generated for BattleGridMechEditor in 4.231073 seconds
+[2023.03.28-15.37.28:179][807]CompilerResultsLog: Building BattleGridMechEditor...
+[2023.03.28-15.37.28:179][807]CompilerResultsLog: Using Visual Studio 2019 14.29.30148 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.03.28-15.37.28:179][807]CompilerResultsLog: Building 6 actions with 12 processes...
+[2023.03.28-15.37.28:179][807]CompilerResultsLog:   [1/6] BattleGridMech.init.gen.cpp
+[2023.03.28-15.37.28:179][807]CompilerResultsLog:   [2/6] MenuWidgetBase.cpp
+[2023.03.28-15.37.28:179][807]CompilerResultsLog:   [3/6] MenuWidgetBase.gen.cpp
+[2023.03.28-15.37.28:179][807]CompilerResultsLog:   [4/6] UE4Editor-BattleGridMech-9768.lib
+[2023.03.28-15.37.28:179][807]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-9768.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-9768.exp
+[2023.03.28-15.37.28:179][807]CompilerResultsLog:   [5/6] UE4Editor-BattleGridMech-9768.dll
+[2023.03.28-15.37.28:179][807]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-9768.suppressed.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-9768.suppressed.exp
+[2023.03.28-15.37.28:179][807]CompilerResultsLog:   [6/6] BattleGridMechEditor.target
+[2023.03.28-15.37.28:179][807]CompilerResultsLog: Total time in Parallel executor: 12.39 seconds
+[2023.03.28-15.37.28:179][807]CompilerResultsLog: Total execution time: 17.62 seconds
+[2023.03.28-15.37.28:179][807]LogMainFrame: MainFrame: Module compiling took 17.749 seconds
+[2023.03.28-15.37.28:210][807]LogClass: Could not find existing class MenuWidgetBase in package /Script/BattleGridMech for HotReload, assuming new class
+[2023.03.28-15.37.28:213][807]LogHotReload: Re-instancing MenuWidgetBase after hot-reload.
+[2023.03.28-15.37.28:226][807]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0003 seconds. Added 5 classes and 3 folders.
+[2023.03.28-15.37.28:231][807]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.03.28-15.37.28:282][807]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0090 seconds. Added 3829 classes and 934 folders.
+[2023.03.28-15.37.28:282][807]Display: HotReload took 17.9s.
+[2023.03.28-15.37.36:004][575]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.28-15.37.36:022][575]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.28-15.37.41:048][172]LogBlueprint: Warning: Reparenting blueprint WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu from UserWidget to MenuWidgetBase...
+[2023.03.28-15.37.41:066][172]BlueprintLog: New page: Compile W_DebugMenu
+[2023.03.28-15.37.41:106][172]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2023.03.28-15.37.47:714][954]BlueprintLog: New page: Compile W_DebugMenu
+[2023.03.28-15.37.47:740][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.03.28-15.37.48:422][ 20]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_DebugMenuA7DBA71A4C85CD72A714B5B801549D32.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.03.28-15.37.48:435][ 20]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.03.28-15.37.48:435][ 20]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.03.28-15.37.50:111][186]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.28-15.37.50:117][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-15.37.50:117][186]PIE: New page: PIE session: L_Entry (Mar 28, 2023, 7:37:50 PM)
+[2023.03.28-15.37.50:117][186]LogPlayLevel: Creating play world package: /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry
+[2023.03.28-15.37.50:118][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001554s)
+[2023.03.28-15.37.50:119][186]LogAIModule: Creating AISystem for world L_Entry
+[2023.03.28-15.37.50:120][186]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2023.03.28-15.37.50:120][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGridMech/Maps/L_Entry.L_Entry to /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry.L_Entry (0.002781s)
+[2023.03.28-15.37.50:140][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.03.28-15.37.50:141][186]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.03.28-15.37.50:141][186]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-15.37.50:141][186]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-15.37.50:141][186]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-15.37.50:141][186]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-15.37.50:141][186]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-15.37.50:141][186]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.28-15.37.50:141][186]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-15.37.50:141][186]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-15.37.50:141][186]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-15.37.50:141][186]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-15.37.50:141][186]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-15.37.50:141][186]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.28-15.37.50:145][186]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.28-15.37.50:145][186]LogAudioMixer: Display: 1: FrontRight
+[2023.03.28-15.37.50:151][186]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.03.28-15.37.50:152][186]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-15.37.50:152][186]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-15.37.50:152][186]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-15.37.50:153][186]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.28-15.37.50:153][186]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.28-15.37.50:153][186]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.28-15.37.50:154][186]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.28-15.37.50:154][186]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.28-15.37.50:154][186]LogInit: FAudioDevice initialized.
+[2023.03.28-15.37.50:154][186]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_Entry'.
+[2023.03.28-15.37.50:167][186]LogLoad: Game class is 'BP_BattleGridMechGameMode_C'
+[2023.03.28-15.37.50:172][186]LogWorld: Bringing World /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.03.28-17.37.50
+[2023.03.28-15.37.50:172][186]LogWorld: Bringing up level for play took: 0.000422
+[2023.03.28-15.37.50:172][186]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2023.03.28-15.37.50:175][186]PIE: Server logged in
+[2023.03.28-15.37.50:175][186]PIE: Play in editor total start time 0.06 seconds.
+[2023.03.28-15.37.51:367][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-15.37.51:367][314]LogWorld: BeginTearingDown for /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry
+[2023.03.28-15.37.51:367][314]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-15.37.51:367][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-15.37.51:381][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-15.37.51:385][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-15.37.51:403][314]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-15.37.51:403][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.28-15.37.51:405][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.28-15.37.51:406][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-15.37.51:409][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.03.28-15.37.51:442][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.03.28-15.37.51:448][316]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.03.28-17.34.45:464][385]Candidate modules for hot reload:
+[2023.03.28-17.34.45:464][385]  BattleGridMech
+[2023.03.28-17.34.45:464][385]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleGridMech,9102 BattleGridMechEditor Win64 Development -Project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" "C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject"  -IgnoreJunk]
+[2023.03.28-17.34.45:468][385]Warning: Starting HotReload took  0.0s.
+[2023.03.28-17.35.12:581][443]CompilerResultsLog: New page: Compilation - Mar 28, 2023, 9:35:12 PM
+[2023.03.28-17.35.12:582][443]CompilerResultsLog: Parsing headers for BattleGridMechEditor
+[2023.03.28-17.35.12:582][443]CompilerResultsLog:   Running UnrealHeaderTool "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\BattleGridMech.uproject" "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\BattleGridMechEditor\Development\BattleGridMechEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\rulen\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.03.28-17.35.12:582][443]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.03.28-17.35.12:582][443]CompilerResultsLog: Reflection code generated for BattleGridMechEditor in 13.7826246 seconds
+[2023.03.28-17.35.12:582][443]CompilerResultsLog: Building BattleGridMechEditor...
+[2023.03.28-17.35.12:582][443]CompilerResultsLog: Using Visual Studio 2019 14.29.30148 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.03.28-17.35.12:582][443]CompilerResultsLog: Building 8 actions with 12 processes...
+[2023.03.28-17.35.12:582][443]CompilerResultsLog:   [1/8] BattleGridMech.init.gen.cpp
+[2023.03.28-17.35.12:582][443]CompilerResultsLog:   [2/8] DebugMenuBase.gen.cpp
+[2023.03.28-17.35.12:582][443]CompilerResultsLog:   [3/8] MenuWidgetBase.cpp
+[2023.03.28-17.35.12:582][443]CompilerResultsLog:   [4/8] MenuWidgetBase.gen.cpp
+[2023.03.28-17.35.12:582][443]CompilerResultsLog:   [5/8] DebugMenuBase.cpp
+[2023.03.28-17.35.12:582][443]CompilerResultsLog:   [6/8] UE4Editor-BattleGridMech-9102.lib
+[2023.03.28-17.35.12:582][443]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-9102.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-9102.exp
+[2023.03.28-17.35.12:582][443]CompilerResultsLog:   [7/8] UE4Editor-BattleGridMech-9102.dll
+[2023.03.28-17.35.12:582][443]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-9102.suppressed.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-9102.suppressed.exp
+[2023.03.28-17.35.12:582][443]CompilerResultsLog:   [8/8] BattleGridMechEditor.target
+[2023.03.28-17.35.12:582][443]CompilerResultsLog: Total time in Parallel executor: 12.27 seconds
+[2023.03.28-17.35.12:582][443]CompilerResultsLog: Total execution time: 27.01 seconds
+[2023.03.28-17.35.12:582][443]LogMainFrame: MainFrame: Module compiling took 27.125 seconds
+[2023.03.28-17.35.12:796][443]LogClass: Could not find existing class DebugMenuBase in package /Script/BattleGridMech for HotReload, assuming new class
+[2023.03.28-17.35.12:807][443]LogHotReload: Re-instancing DebugMenuBase after hot-reload.
+[2023.03.28-17.35.12:872][443]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0019 seconds. Added 5 classes and 3 folders.
+[2023.03.28-17.35.12:882][443]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.03.28-17.35.13:004][443]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0144 seconds. Added 3829 classes and 934 folders.
+[2023.03.28-17.35.13:004][443]Display: HotReload took 27.6s.
+[2023.03.28-17.35.14:846][571]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.28-17.35.14:862][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-17.35.14:862][571]PIE: New page: PIE session: L_Entry (Mar 28, 2023, 9:35:14 PM)
+[2023.03.28-17.35.14:862][571]LogPlayLevel: Creating play world package: /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry
+[2023.03.28-17.35.14:864][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001703s)
+[2023.03.28-17.35.14:866][571]LogAIModule: Creating AISystem for world L_Entry
+[2023.03.28-17.35.14:867][571]LogPlayLevel: PIE: World Init took: (0.002300s)
+[2023.03.28-17.35.14:867][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGridMech/Maps/L_Entry.L_Entry to /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry.L_Entry (0.004302s)
+[2023.03.28-17.35.15:029][571]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2023.03.28-17.35.15:033][571]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.28-17.35.15:033][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-17.35.15:033][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-17.35.15:033][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-17.35.15:033][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-17.35.15:033][571]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-17.35.15:033][571]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.28-17.35.15:033][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-17.35.15:033][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-17.35.15:033][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-17.35.15:033][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-17.35.15:033][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-17.35.15:033][571]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.28-17.35.15:036][571]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.28-17.35.15:036][571]LogAudioMixer: Display: 1: FrontRight
+[2023.03.28-17.35.15:043][571]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.03.28-17.35.15:044][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-17.35.15:044][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-17.35.15:044][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-17.35.15:046][571]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.28-17.35.15:046][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.28-17.35.15:046][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.28-17.35.15:048][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.28-17.35.15:048][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.28-17.35.15:048][571]LogInit: FAudioDevice initialized.
+[2023.03.28-17.35.15:048][571]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_Entry'.
+[2023.03.28-17.35.15:057][571]LogLoad: Game class is 'BP_BattleGridMechGameMode_C'
+[2023.03.28-17.35.15:067][571]LogWorld: Bringing World /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.03.28-19.35.15
+[2023.03.28-17.35.15:067][571]LogWorld: Bringing up level for play took: 0.000565
+[2023.03.28-17.35.15:067][571]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.03.28-17.35.15:071][571]PIE: Server logged in
+[2023.03.28-17.35.15:072][571]PIE: Play in editor total start time 0.221 seconds.
+[2023.03.28-17.35.18:463][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-17.35.18:463][900]LogWorld: BeginTearingDown for /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry
+[2023.03.28-17.35.18:464][900]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-17.35.18:464][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-17.35.18:474][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-17.35.18:478][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-17.35.18:502][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-17.35.18:503][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.28-17.35.18:504][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.28-17.35.18:537][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.03.28-17.35.18:551][901]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.03.28-17.35.18:580][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.03.28-17.37.09:319][564]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BattleGridMech/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu
+[2023.03.28-17.37.09:935][564]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2023.03.28-17.37.11:796][663]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:104).
+[2023.03.28-17.37.11:924][669]LogSlate: Window 'BP_DebugMenu' being destroyed
+[2023.03.28-17.37.16:157][124]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.28-17.37.16:179][124]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.28-17.37.21:674][648]BlueprintLog: New page: Compile BP_DebugMenu
+[2023.03.28-17.37.21:719][648]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.03.28-17.37.22:197][684]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/BP_DebugMenu97E0569848CA07C294937499B7FC87D5.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/BP_DebugMenu.uasset'
+[2023.03.28-17.37.22:845][684]AssetCheck: New page: Asset Save: BP_DebugMenu
+[2023.03.28-17.37.22:845][684]LogContentValidation: Display: Validating Blueprint /Game/BattleGridMech/Blueprints/DebugMenu/BP_DebugMenu.BP_DebugMenu
+[2023.03.28-17.37.30:165][925]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2023.03.28-17.37.30:169][925]Message dialog closed, result: Cancel, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2023.03.28-17.37.39:312][733]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.28-17.37.39:319][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-17.37.39:319][733]PIE: New page: PIE session: L_Entry (Mar 28, 2023, 9:37:39 PM)
+[2023.03.28-17.37.39:351][733]LogPlayLevel: Creating play world package: /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry
+[2023.03.28-17.37.39:352][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001197s)
+[2023.03.28-17.37.39:353][733]LogAIModule: Creating AISystem for world L_Entry
+[2023.03.28-17.37.39:353][733]LogPlayLevel: PIE: World Init took: (0.001429s)
+[2023.03.28-17.37.39:353][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGridMech/Maps/L_Entry.L_Entry to /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry.L_Entry (0.002782s)
+[2023.03.28-17.37.39:378][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.03.28-17.37.39:378][733]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.28-17.37.39:378][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-17.37.39:379][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-17.37.39:379][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-17.37.39:379][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-17.37.39:379][733]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-17.37.39:379][733]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.28-17.37.39:379][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-17.37.39:379][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-17.37.39:379][733]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-17.37.39:379][733]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-17.37.39:379][733]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-17.37.39:379][733]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.28-17.37.39:381][733]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.28-17.37.39:381][733]LogAudioMixer: Display: 1: FrontRight
+[2023.03.28-17.37.39:388][733]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.03.28-17.37.39:388][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-17.37.39:388][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-17.37.39:388][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-17.37.39:389][733]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.28-17.37.39:389][733]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.28-17.37.39:389][733]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.28-17.37.39:390][733]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.28-17.37.39:390][733]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.28-17.37.39:390][733]LogInit: FAudioDevice initialized.
+[2023.03.28-17.37.39:390][733]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_Entry'.
+[2023.03.28-17.37.39:399][733]LogLoad: Game class is 'BP_BattleGridMechGameMode_C'
+[2023.03.28-17.37.39:402][733]LogWorld: Bringing World /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.03.28-19.37.39
+[2023.03.28-17.37.39:402][733]LogWorld: Bringing up level for play took: 0.000288
+[2023.03.28-17.37.39:402][733]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.03.28-17.37.39:405][733]PIE: Server logged in
+[2023.03.28-17.37.39:406][733]PIE: Play in editor total start time 0.09 seconds.
+[2023.03.28-17.37.43:744][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-17.37.43:744][232]LogWorld: BeginTearingDown for /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry
+[2023.03.28-17.37.43:744][232]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-17.37.43:745][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-17.37.43:753][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-17.37.43:765][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-17.37.43:786][232]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-17.37.43:786][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.28-17.37.43:787][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.28-17.37.43:789][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-17.37.43:793][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.03.28-17.37.43:815][233]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.03.28-17.37.43:839][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.03.28-17.38.13:518][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.28-17.38.13:527][747]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/L_Entry_Auto1EA677D874321304015C98A94702043EF.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Saved/Autosaves/Game/BattleGridMech/Maps/L_Entry_Auto1.umap'
+[2023.03.28-17.38.13:532][747]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BattleGridMech/Maps/L_Entry' took 0.035
+[2023.03.28-17.38.13:533][747]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2023.03.28-17.42.39:101][305]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.28-17.42.39:106][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-17.42.39:106][305]PIE: New page: PIE session: L_Entry (Mar 28, 2023, 9:42:39 PM)
+[2023.03.28-17.42.39:106][305]LogPlayLevel: Creating play world package: /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry
+[2023.03.28-17.42.39:108][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001408s)
+[2023.03.28-17.42.39:108][305]LogAIModule: Creating AISystem for world L_Entry
+[2023.03.28-17.42.39:110][305]LogPlayLevel: PIE: World Init took: (0.002140s)
+[2023.03.28-17.42.39:110][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGridMech/Maps/L_Entry.L_Entry to /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry.L_Entry (0.003644s)
+[2023.03.28-17.42.39:137][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.03.28-17.42.39:138][305]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.28-17.42.39:138][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-17.42.39:138][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-17.42.39:138][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-17.42.39:138][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-17.42.39:138][305]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-17.42.39:138][305]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.28-17.42.39:138][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-17.42.39:138][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-17.42.39:138][305]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-17.42.39:138][305]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-17.42.39:138][305]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-17.42.39:138][305]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.28-17.42.39:140][305]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.28-17.42.39:140][305]LogAudioMixer: Display: 1: FrontRight
+[2023.03.28-17.42.39:147][305]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.03.28-17.42.39:147][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-17.42.39:147][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-17.42.39:147][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-17.42.39:147][305]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.28-17.42.39:147][305]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.28-17.42.39:147][305]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.28-17.42.39:148][305]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.28-17.42.39:148][305]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.28-17.42.39:148][305]LogInit: FAudioDevice initialized.
+[2023.03.28-17.42.39:148][305]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_Entry'.
+[2023.03.28-17.42.39:158][305]LogLoad: Game class is 'BP_BattleGridMechGameMode_C'
+[2023.03.28-17.42.39:161][305]LogWorld: Bringing World /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.03.28-19.42.39
+[2023.03.28-17.42.39:162][305]LogWorld: Bringing up level for play took: 0.000351
+[2023.03.28-17.42.39:162][305]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.03.28-17.42.39:164][305]PIE: Server logged in
+[2023.03.28-17.42.39:165][305]PIE: Play in editor total start time 0.06 seconds.
+[2023.03.28-17.42.57:395][269]LogSlate: Took 0.009022 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.28-17.43.14:642][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-17.43.14:642][143]LogWorld: BeginTearingDown for /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry
+[2023.03.28-17.43.14:643][143]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-17.43.14:643][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-17.43.14:653][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-17.43.14:662][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-17.43.14:683][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-17.43.14:683][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.28-17.43.14:684][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.28-17.43.14:689][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.03.28-17.43.14:734][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.03.28-17.43.14:743][145]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.03.28-17.47.36:053][617]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "TextLabel" of type  Text  was not found.
+[2023.03.28-17.47.37:103][736]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "MyButton" of type  Button  was not found.
+[2023.03.28-17.47.37:104][736]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "TextLabel" of type  Text  was not found.
+[2023.03.28-17.47.40:971][191]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "MyButton" of type  Button  was not found.
+[2023.03.28-17.47.40:971][191]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "TextLabel" of type  Text  was not found.
+[2023.03.28-17.48.49:725][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2023.03.28-17.48.49:726][629]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BattleGridMech/Maps/L_Entry' took 0.028
+[2023.03.28-17.48.49:727][629]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2023.03.28-17.48.49:727][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu]
+[2023.03.28-17.48.49:730][629]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_DebugMenu_Auto24435103945126AEB0105DA8AC55B0A03.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Saved/Autosaves/Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu_Auto2.uasset'
+[2023.03.28-17.48.49:730][629]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.03.28-17.48.52:528][948]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "MyButton" of type  Button  was not found.
+[2023.03.28-17.48.52:528][948]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "TextLabel" of type  Text  was not found.
+[2023.03.28-17.49.09:240][945]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "MyButton" of type  Button  was not found.
+[2023.03.28-17.49.09:240][945]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "TextLabel" of type  Text  was not found.
+[2023.03.28-17.49.25:438][373]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "MyButton" of type  Button  was not found.
+[2023.03.28-17.49.25:438][373]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "TextLabel" of type  Text  was not found.
+[2023.03.28-17.49.43:080][467]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "MyButton" of type  Button  was not found.
+[2023.03.28-17.49.43:080][467]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "TextLabel" of type  Text  was not found.
+[2023.03.28-17.50.06:958][751]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "MyButton" of type  Button  was not found.
+[2023.03.28-17.50.06:958][751]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "TextLabel" of type  Text  was not found.
+[2023.03.28-17.50.08:883][978]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "MyButton" of type  Button  was not found.
+[2023.03.28-17.50.08:884][978]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "TextLabel" of type  Text  was not found.
+[2023.03.28-17.51.01:213][371]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "MyButton" of type  Button  was not found.
+[2023.03.28-17.51.01:213][371]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "TextLabel" of type  Text  was not found.
+[2023.03.28-17.51.01:322][375]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/UMG': No such file or directory
+[2023.03.28-17.51.04:650][726]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "MyButton" of type  Button  was not found.
+[2023.03.28-17.51.04:650][726]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "TextLabel" of type  Text  was not found.
+[2023.03.28-17.51.24:942][474]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "MyButton" of type  Button  was not found.
+[2023.03.28-17.51.24:942][474]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "TextLabel" of type  Text  was not found.
+[2023.03.28-17.51.30:850][169]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "MyButton" of type  Button  was not found.
+[2023.03.28-17.51.30:850][169]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "TextLabel" of type  Text  was not found.
+[2023.03.28-17.53.42:827][782]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "MyButton" of type  Button  was not found.
+[2023.03.28-17.53.42:827][782]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "TextLabel" of type  Text  was not found.
+[2023.03.28-17.54.06:294][643]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "MyButton" of type  Button  was not found.
+[2023.03.28-17.54.06:294][643]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "TextLabel" of type  Text  was not found.
+[2023.03.28-17.55.07:090][530]LogSlate: Took 0.009877 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.03.28-17.55.23:633][424]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.28-17.58.50:058][550]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2023.03.28-17.58.50:061][550]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BattleGridMech/Maps/L_Entry' took 0.035
+[2023.03.28-17.58.50:061][550]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu] ([2] browsable assets)...
+[2023.03.28-17.58.50:061][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu]
+[2023.03.28-17.58.50:066][550]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_DebugMenu_Auto36EBDCE66474BE466C32072A1741359A0.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Saved/Autosaves/Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu_Auto3.uasset'
+[2023.03.28-17.58.50:068][550]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.03.28-18.02.40:591][452]BlueprintLog: New page: Compile W_DebugMenu
+[2023.03.28-18.02.40:593][452]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "MyButton" of type  Button  was not found.
+[2023.03.28-18.02.40:593][452]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "TextLabel" of type  Text  was not found.
+[2023.03.28-18.02.40:594][452]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "MyButton" of type  Button  was not found.
+[2023.03.28-18.02.40:594][452]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\W_DebugMenu.uasset: [Compiler] A required widget binding "TextLabel" of type  Text  was not found.
+[2023.03.28-18.02.40:627][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.03.28-18.02.41:324][522]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_DebugMenuA3760E2549CA6027D9329C83C9088FEC.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.03.28-18.02.41:341][522]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.03.28-18.02.41:341][522]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.03.28-18.02.48:917][339]LogSlate: Took 0.008457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.28-18.04.42:812][598]Candidate modules for hot reload:
+[2023.03.28-18.04.42:812][598]  BattleGridMech
+[2023.03.28-18.04.42:812][598]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleGridMech,6443 BattleGridMechEditor Win64 Development -Project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" "C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject"  -IgnoreJunk]
+[2023.03.28-18.04.42:815][598]Warning: Starting HotReload took  0.0s.
+[2023.03.28-18.04.51:953][200]CompilerResultsLog: New page: Compilation - Mar 28, 2023, 10:04:51 PM
+[2023.03.28-18.04.51:953][200]CompilerResultsLog: Parsing headers for BattleGridMechEditor
+[2023.03.28-18.04.51:953][200]CompilerResultsLog:   Running UnrealHeaderTool "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\BattleGridMech.uproject" "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\BattleGridMechEditor\Development\BattleGridMechEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\rulen\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.03.28-18.04.51:953][200]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.03.28-18.04.51:953][200]CompilerResultsLog: Reflection code generated for BattleGridMechEditor in 3.6343543 seconds
+[2023.03.28-18.04.51:953][200]CompilerResultsLog: Building BattleGridMechEditor...
+[2023.03.28-18.04.51:953][200]CompilerResultsLog: Using Visual Studio 2019 14.29.30148 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.03.28-18.04.51:953][200]CompilerResultsLog: Building 8 actions with 12 processes...
+[2023.03.28-18.04.51:953][200]CompilerResultsLog:   [1/8] BattleGridMech.init.gen.cpp
+[2023.03.28-18.04.51:953][200]CompilerResultsLog:   [2/8] DebugMenuBase.gen.cpp
+[2023.03.28-18.04.51:953][200]CompilerResultsLog:   [3/8] MenuWidgetBase.cpp
+[2023.03.28-18.04.51:953][200]CompilerResultsLog:   [4/8] DebugMenuBase.cpp
+[2023.03.28-18.04.51:953][200]CompilerResultsLog:   [5/8] MenuWidgetBase.gen.cpp
+[2023.03.28-18.04.51:953][200]CompilerResultsLog:   [6/8] UE4Editor-BattleGridMech-6443.lib
+[2023.03.28-18.04.51:953][200]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-6443.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-6443.exp
+[2023.03.28-18.04.51:953][200]CompilerResultsLog:   [7/8] UE4Editor-BattleGridMech-6443.dll
+[2023.03.28-18.04.51:953][200]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-6443.suppressed.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-6443.suppressed.exp
+[2023.03.28-18.04.51:953][200]CompilerResultsLog:   [8/8] BattleGridMechEditor.target
+[2023.03.28-18.04.51:953][200]CompilerResultsLog: Total time in Parallel executor: 4.66 seconds
+[2023.03.28-18.04.51:953][200]CompilerResultsLog: Total execution time: 9.07 seconds
+[2023.03.28-18.04.51:953][200]LogMainFrame: MainFrame: Module compiling took 9.144 seconds
+[2023.03.28-18.04.52:024][200]LogClass: Could not find existing class MenuWidgetBase in package /Script/BattleGridMech for HotReload, assuming new class
+[2023.03.28-18.04.52:033][200]LogHotReload: Re-instancing MenuWidgetBase after hot-reload.
+[2023.03.28-18.04.52:130][200]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0003 seconds. Added 5 classes and 3 folders.
+[2023.03.28-18.04.52:137][200]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.03.28-18.04.52:209][200]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3829 classes and 934 folders.
+[2023.03.28-18.04.52:210][200]Display: HotReload took  9.4s.
+[2023.03.28-18.04.57:166][594]BlueprintLog: New page: Compile W_DebugMenu
+[2023.03.28-18.04.57:311][594]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2023.03.28-18.04.58:432][698]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_DebugMenu45366A1F4BEF80218BDB8E94E103DE86.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.uasset'
+[2023.03.28-18.04.58:448][698]AssetCheck: New page: Asset Save: W_DebugMenu
+[2023.03.28-18.04.58:448][698]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/W_DebugMenu.W_DebugMenu
+[2023.03.28-18.05.01:503][ 34]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.28-18.05.01:509][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-18.05.01:510][ 34]PIE: New page: PIE session: L_Entry (Mar 28, 2023, 10:05:01 PM)
+[2023.03.28-18.05.01:510][ 34]LogPlayLevel: Creating play world package: /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry
+[2023.03.28-18.05.01:511][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000981s)
+[2023.03.28-18.05.01:511][ 34]LogAIModule: Creating AISystem for world L_Entry
+[2023.03.28-18.05.01:511][ 34]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2023.03.28-18.05.01:512][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGridMech/Maps/L_Entry.L_Entry to /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry.L_Entry (0.001827s)
+[2023.03.28-18.05.01:544][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2023.03.28-18.05.01:547][ 34]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.28-18.05.01:547][ 34]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-18.05.01:547][ 34]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-18.05.01:547][ 34]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-18.05.01:547][ 34]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-18.05.01:548][ 34]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-18.05.01:548][ 34]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.28-18.05.01:548][ 34]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-18.05.01:548][ 34]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-18.05.01:548][ 34]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-18.05.01:548][ 34]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-18.05.01:548][ 34]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-18.05.01:548][ 34]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.28-18.05.01:550][ 34]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.28-18.05.01:550][ 34]LogAudioMixer: Display: 1: FrontRight
+[2023.03.28-18.05.01:556][ 34]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.03.28-18.05.01:556][ 34]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-18.05.01:556][ 34]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-18.05.01:556][ 34]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-18.05.01:557][ 34]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.28-18.05.01:557][ 34]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.28-18.05.01:557][ 34]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.28-18.05.01:558][ 34]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.28-18.05.01:558][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.28-18.05.01:558][ 34]LogInit: FAudioDevice initialized.
+[2023.03.28-18.05.01:558][ 34]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_Entry'.
+[2023.03.28-18.05.01:567][ 34]LogLoad: Game class is 'BP_BattleGridMechGameMode_C'
+[2023.03.28-18.05.01:570][ 34]LogWorld: Bringing World /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry.L_Entry up for play (max tick rate 0) at 2023.03.28-20.05.01
+[2023.03.28-18.05.01:571][ 34]LogWorld: Bringing up level for play took: 0.000344
+[2023.03.28-18.05.01:571][ 34]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2023.03.28-18.05.01:573][ 34]PIE: Server logged in
+[2023.03.28-18.05.01:574][ 34]PIE: Play in editor total start time 0.066 seconds.
+[2023.03.28-18.05.10:711][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-18.05.10:711][107]LogWorld: BeginTearingDown for /Game/BattleGridMech/Maps/UEDPIE_0_L_Entry
+[2023.03.28-18.05.10:711][107]LogWorld: UWorld::CleanupWorld for L_Entry, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-18.05.10:711][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-18.05.10:718][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-18.05.10:729][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-18.05.10:752][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-18.05.10:752][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.28-18.05.10:753][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.28-18.05.10:759][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2023.03.28-18.05.10:781][108]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.03.28-18.05.10:808][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.03.28-18.05.20:181][524]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.28-18.05.20:198][524]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.28-18.05.23:220][817]LogContentBrowser: Attempting asset rename: NewFolder -> Widgets
+[2023.03.28-18.05.23:222][817]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.28-18.05.38:832][422]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.03.28-18.05.38:847][422]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.03.28-18.05.49:140][423]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> ButtonConsoleCommand
+[2023.03.28-18.05.49:212][423]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.03.28-18.06.02:817][703]LogContentBrowser: Attempting asset rename: ButtonConsoleCommand -> W_ButtonConsoleCommand
+[2023.03.28-18.06.03:220][703]LogMetaData: Removing '/Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.SKEL_W_ButtonConsoleCommand_C' ref from Metadata '/Game/BattleGridMech/Blueprints/DebugMenu/Widgets/ButtonConsoleCommand.PackageMetaData'
+[2023.03.28-18.06.03:220][703]LogMetaData: Removing '/Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand_C' ref from Metadata '/Game/BattleGridMech/Blueprints/DebugMenu/Widgets/ButtonConsoleCommand.PackageMetaData'
+[2023.03.28-18.06.03:220][703]LogMetaData: Removing '/Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BattleGridMech/Blueprints/DebugMenu/Widgets/ButtonConsoleCommand.PackageMetaData'
+[2023.03.28-18.06.03:220][703]LogMetaData: Removing '/Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BattleGridMech/Blueprints/DebugMenu/Widgets/ButtonConsoleCommand.PackageMetaData'
+[2023.03.28-18.06.03:221][703]LogMetaData: Removing '/Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BattleGridMech/Blueprints/DebugMenu/Widgets/ButtonConsoleCommand.PackageMetaData'
+[2023.03.28-18.06.03:238][703]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommand4A399CB0415FF143E3C0B6876CDD95AA.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.uasset'
+[2023.03.28-18.06.04:301][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.03.28-18.06.04:334][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.03.28-18.06.04:359][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.03.28-18.06.04:398][703]AssetCheck: New page: Asset Save: W_ButtonConsoleCommand
+[2023.03.28-18.06.04:398][703]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.28-18.06.05:608][816]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.28-18.06.10:848][397]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.28-18.06.10:866][397]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.28-18.06.19:103][378]LogBlueprint: Warning: Reparenting blueprint WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand from UserWidget to MenuWidgetBase...
+[2023.03.28-18.06.19:104][378]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\Widgets\W_ButtonConsoleCommand.uasset: [Compiler] A required widget binding "ButtonTab1" of type  Button  was not found.
+[2023.03.28-18.06.19:104][378]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\Widgets\W_ButtonConsoleCommand.uasset: [Compiler] A required widget binding "ButtonTab2" of type  Button  was not found.
+[2023.03.28-18.06.19:104][378]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\Widgets\W_ButtonConsoleCommand.uasset: [Compiler] A required widget binding "TextTab1" of type  Text  was not found.
+[2023.03.28-18.06.19:104][378]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\Widgets\W_ButtonConsoleCommand.uasset: [Compiler] A required widget binding "TextTab2" of type  Text  was not found.
+[2023.03.28-18.06.19:106][378]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.28-18.06.19:106][378]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\Widgets\W_ButtonConsoleCommand.uasset: [Compiler] A required widget binding "ButtonTab1" of type  Button  was not found.
+[2023.03.28-18.06.19:106][378]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\Widgets\W_ButtonConsoleCommand.uasset: [Compiler] A required widget binding "ButtonTab2" of type  Button  was not found.
+[2023.03.28-18.06.19:106][378]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\Widgets\W_ButtonConsoleCommand.uasset: [Compiler] A required widget binding "TextTab1" of type  Text  was not found.
+[2023.03.28-18.06.19:106][378]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\Widgets\W_ButtonConsoleCommand.uasset: [Compiler] A required widget binding "TextTab2" of type  Text  was not found.
+[2023.03.28-18.06.19:107][378]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\Widgets\W_ButtonConsoleCommand.uasset: [Compiler] A required widget binding "ButtonTab1" of type  Button  was not found.
+[2023.03.28-18.06.19:107][378]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\Widgets\W_ButtonConsoleCommand.uasset: [Compiler] A required widget binding "ButtonTab2" of type  Button  was not found.
+[2023.03.28-18.06.19:107][378]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\Widgets\W_ButtonConsoleCommand.uasset: [Compiler] A required widget binding "TextTab1" of type  Text  was not found.
+[2023.03.28-18.06.19:107][378]LogBlueprint: Error: [AssetLog] C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Content\BattleGridMech\Blueprints\DebugMenu\Widgets\W_ButtonConsoleCommand.uasset: [Compiler] A required widget binding "TextTab2" of type  Text  was not found.
+[2023.03.28-18.06.19:151][378]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.03.28-18.06.27:267][331]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.28-18.06.27:285][331]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.28-18.09.07:448][451]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2023.03.28-18.09.07:451][451]LogBlueprint: Warning: Reparenting blueprint WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand from MenuWidgetBase to UserWidget...
+[2023.03.28-18.09.07:454][451]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.28-18.09.07:506][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.03.28-18.09.08:853][607]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.28-18.09.08:890][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2023.03.28-18.09.09:478][667]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommandFFD8A6E947FB8BB926B1BCABEC2FFD50.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.uasset'
+[2023.03.28-18.09.09:494][667]AssetCheck: New page: Asset Save: W_ButtonConsoleCommand
+[2023.03.28-18.09.09:494][667]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.28-18.09.53:576][294]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.28-18.09.53:580][294]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.28-18.10.30:248][207]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" -game -rocket -progress
+[2023.03.28-18.10.30:552][207]Discovering modules, targets and source code for project...
+[2023.03.28-18.10.32:865][207]Binding IntelliSense data...
+[2023.03.28-18.10.39:401][207]Binding IntelliSense data... 100%
+[2023.03.28-18.10.39:501][207]Writing project files...
+[2023.03.28-18.10.42:619][207]Writing project files... 100%
+[2023.03.28-18.10.42:835][207]Candidate modules for hot reload:
+[2023.03.28-18.10.42:835][207]  BattleGridMech
+[2023.03.28-18.10.42:835][207]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleGridMech,8014 BattleGridMechEditor Win64 Development -Project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" "C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject"  -IgnoreJunk]
+[2023.03.28-18.10.50:667][207]CompilerResultsLog: New page: Compilation - Mar 28, 2023, 10:10:50 PM
+[2023.03.28-18.10.50:667][207]CompilerResultsLog: Creating makefile for BattleGridMechEditor (no existing makefile)
+[2023.03.28-18.10.50:667][207]CompilerResultsLog: Parsing headers for BattleGridMechEditor
+[2023.03.28-18.10.50:667][207]CompilerResultsLog:   Running UnrealHeaderTool "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\BattleGridMech.uproject" "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\BattleGridMechEditor\Development\BattleGridMechEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\rulen\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.03.28-18.10.50:667][207]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.03.28-18.10.50:667][207]CompilerResultsLog: Reflection code generated for BattleGridMechEditor in 3.0109591 seconds
+[2023.03.28-18.10.50:667][207]CompilerResultsLog: Building BattleGridMechEditor...
+[2023.03.28-18.10.50:667][207]CompilerResultsLog: Using Visual Studio 2019 14.29.30148 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.03.28-18.10.50:667][207]CompilerResultsLog: Building 6 actions with 12 processes...
+[2023.03.28-18.10.50:667][207]CompilerResultsLog:   [1/6] BattleGridMech.init.gen.cpp
+[2023.03.28-18.10.50:667][207]CompilerResultsLog:   [2/6] ButtonConsoleCommandBase.cpp
+[2023.03.28-18.10.50:667][207]CompilerResultsLog:   [3/6] ButtonConsoleCommandBase.gen.cpp
+[2023.03.28-18.10.50:667][207]CompilerResultsLog:   [4/6] UE4Editor-BattleGridMech-8014.lib
+[2023.03.28-18.10.50:667][207]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-8014.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-8014.exp
+[2023.03.28-18.10.50:667][207]CompilerResultsLog:   [5/6] UE4Editor-BattleGridMech-8014.dll
+[2023.03.28-18.10.50:667][207]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-8014.suppressed.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-8014.suppressed.exp
+[2023.03.28-18.10.50:667][207]CompilerResultsLog:   [6/6] BattleGridMechEditor.target
+[2023.03.28-18.10.50:667][207]CompilerResultsLog: Total time in Parallel executor: 3.01 seconds
+[2023.03.28-18.10.50:667][207]CompilerResultsLog: Total execution time: 7.76 seconds
+[2023.03.28-18.10.50:667][207]LogMainFrame: MainFrame: Module compiling took 7.835 seconds
+[2023.03.28-18.10.50:694][207]LogClass: Could not find existing class ButtonConsoleCommandBase in package /Script/BattleGridMech for HotReload, assuming new class
+[2023.03.28-18.10.50:707][207]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0003 seconds. Added 6 classes and 3 folders.
+[2023.03.28-18.10.50:713][207]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.03.28-18.10.50:807][207]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3830 classes and 934 folders.
+[2023.03.28-18.10.50:807][207]Display: HotReload took  8.0s.
+[2023.03.28-18.10.50:807][207]Warning: HotReload operation took  8.0s.
+[2023.03.28-18.10.51:294][207]LogVSAccessor: Warning: Couldn't open file 'C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/Source/BattleGridMech/Private/ButtonConsoleCommandBase.cpp'.
+[2023.03.28-18.10.51:303][207]LogSlate: Window 'Add C++ Class' being destroyed
+[2023.03.28-18.10.51:584][208]LogHotReload: New module detected: UE4Editor-BattleGridMech-8014.dll
+[2023.03.28-18.10.51:600][209]LogHotReload: Starting Hot-Reload from IDE
+[2023.03.28-18.10.51:629][209]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleGridMech' in 0.0004 seconds. Added 6 classes and 3 folders.
+[2023.03.28-18.10.51:636][209]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.03.28-18.10.51:650][209]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0096 seconds. Added 3830 classes and 934 folders.
+[2023.03.28-18.10.51:653][209]Display: HotReload took  0.1s.
+[2023.03.28-18.13.42:121][889]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.28-18.14.06:778][421]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommand3A304460438DC169746D929E604C27E1.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.uasset'
+[2023.03.28-18.14.06:800][421]AssetCheck: New page: Asset Save: W_ButtonConsoleCommand
+[2023.03.28-18.14.06:800][421]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.28-18.14.10:327][841]BlueprintLog: New page: Compile W_ButtonConsoleCommand
+[2023.03.28-18.14.10:466][841]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2023.03.28-18.14.51:818][494]LogSavePackage: Moving '../../../BattleGridMech/Game/Unreal 4.27/Saved/W_ButtonConsoleCommandA2C96CD54EB00CA112BC45AB1BE7FBCA.tmp' to '../../../BattleGridMech/Game/Unreal 4.27/Content/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.uasset'
+[2023.03.28-18.14.51:836][494]AssetCheck: New page: Asset Save: W_ButtonConsoleCommand
+[2023.03.28-18.14.51:836][494]LogContentValidation: Display: Validating WidgetBlueprint /Game/BattleGridMech/Blueprints/DebugMenu/Widgets/W_ButtonConsoleCommand.W_ButtonConsoleCommand
+[2023.03.28-18.16.49:591][288]Candidate modules for hot reload:
+[2023.03.28-18.16.49:591][288]  BattleGridMech
+[2023.03.28-18.16.49:591][288]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleGridMech,2047 BattleGridMechEditor Win64 Development -Project="C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject" "C:/Program Files/Epic Games/UE_4.27/BattleGridMech/Game/Unreal 4.27/BattleGridMech.uproject"  -IgnoreJunk]
+[2023.03.28-18.16.49:594][288]Warning: Starting HotReload took  0.0s.
+[2023.03.28-18.16.57:776][565]CompilerResultsLog: New page: Compilation - Mar 28, 2023, 10:16:57 PM
+[2023.03.28-18.16.57:776][565]CompilerResultsLog: Parsing headers for BattleGridMechEditor
+[2023.03.28-18.16.57:776][565]CompilerResultsLog:   Running UnrealHeaderTool "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\BattleGridMech.uproject" "C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\BattleGridMechEditor\Development\BattleGridMechEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\rulen\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.03.28-18.16.57:776][565]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2023.03.28-18.16.57:776][565]CompilerResultsLog: Reflection code generated for BattleGridMechEditor in 3.3899352 seconds
+[2023.03.28-18.16.57:776][565]CompilerResultsLog: Building BattleGridMechEditor...
+[2023.03.28-18.16.57:776][565]CompilerResultsLog: Using Visual Studio 2019 14.29.30148 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.03.28-18.16.57:776][565]CompilerResultsLog: Building 9 actions with 12 processes...
+[2023.03.28-18.16.57:776][565]CompilerResultsLog:   [1/9] BattleGridMech.init.gen.cpp
+[2023.03.28-18.16.57:776][565]CompilerResultsLog:   [2/9] ButtonConsoleCommandBase.cpp
+[2023.03.28-18.16.57:776][565]CompilerResultsLog:   [3/9] MenuWidgetBase.cpp
+[2023.03.28-18.16.57:776][565]CompilerResultsLog:   [4/9] ButtonConsoleCommandBase.gen.cpp
+[2023.03.28-18.16.57:776][565]CompilerResultsLog:   [5/9] MenuWidgetBase.gen.cpp
+[2023.03.28-18.16.57:776][565]CompilerResultsLog:   [6/9] DebugMenuBase.cpp
+[2023.03.28-18.16.57:776][565]CompilerResultsLog:   [7/9] UE4Editor-BattleGridMech-2047.lib
+[2023.03.28-18.16.57:776][565]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-2047.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-2047.exp
+[2023.03.28-18.16.57:776][565]CompilerResultsLog:   [8/9] UE4Editor-BattleGridMech-2047.dll
+[2023.03.28-18.16.57:776][565]CompilerResultsLog:      Creating library C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-2047.suppressed.lib and object C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-2047.suppressed.exp
+[2023.03.28-18.16.57:776][565]CompilerResultsLog:   [9/9] BattleGridMechEditor.target
+[2023.03.28-18.16.57:776][565]CompilerResultsLog: Total time in Parallel executor: 3.90 seconds
+[2023.03.28-18.16.57:776][565]CompilerResultsLog: Total execution time: 7.97 seconds
+[2023.03.28-18.16.57:776][565]LogMainFrame: MainFrame: Module compiling took 8.189 seconds
+[2023.03.28-18.16.57:805][565]LogClass: Could not find existing class ButtonConsoleCommandBase in package /Script/BattleGridMech for HotReload, assuming new class
+[2023.03.28-18.16.57:807][565]LogClass: Could not find existing class MenuWidgetBase in package /Script/BattleGridMech for HotReload, assuming new class
+[2023.03.28-18.16.57:819][565]LogHotReload: Re-instancing ButtonConsoleCommandBase after hot-reload.
+[2023.03.28-18.16.57:851][565]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.03.28-18.16.57:853][565]LogWindows: Windows GetLastError: The operation completed successfully. (0)

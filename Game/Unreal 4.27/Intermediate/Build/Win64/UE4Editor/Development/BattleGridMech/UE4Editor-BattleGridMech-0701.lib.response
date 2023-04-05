@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BattleGridMech-0701.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\BattleGridMechEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\ButtonConsoleCommandBase.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\DebugMenuBase.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\MenuWidgetBase.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\PawnBase.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\PlayerControllerBase.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\BattleGridMech.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\BattleGridMechGameModeBase.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\BattleGridMech.init.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\BattleGridMechGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\ButtonConsoleCommandBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\DebugMenuBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\MenuWidgetBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\PawnBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\PlayerControllerBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\Default.rc2.res"
+/OUT:"C:\Program Files\Epic Games\UE_4.27\BattleGridMech\Game\Unreal 4.27\Intermediate\Build\Win64\UE4Editor\Development\BattleGridMech\UE4Editor-BattleGridMech-0701.lib"

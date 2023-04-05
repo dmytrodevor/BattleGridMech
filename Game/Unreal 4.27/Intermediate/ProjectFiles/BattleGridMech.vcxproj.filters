@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BattleGridMech.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{286A0AEE-0283-4CFC-AEF9-D3E6E0A84912}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BattleGridMech.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BattleGridMechEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{F601A05D-2923-471B-9CA5-C46D4D458CFC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BattleGridMech">
+      <UniqueIdentifier>{88FF7748-2D7F-4C95-B347-6A86FB9B1206}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BattleGridMech\BattleGridMech.Build.cs">
+      <Filter>Source\BattleGridMech</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BattleGridMech\BattleGridMech.cpp">
+      <Filter>Source\BattleGridMech</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BattleGridMech\BattleGridMech.h">
+      <Filter>Source\BattleGridMech</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BattleGridMech\BattleGridMechGameModeBase.cpp">
+      <Filter>Source\BattleGridMech</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BattleGridMech\BattleGridMechGameModeBase.h">
+      <Filter>Source\BattleGridMech</Filter>
+    </ClInclude>
+    <Filter Include="Source\BattleGridMech\Private">
+      <UniqueIdentifier>{F3F599FE-F11B-4D8E-ACF3-BA942822E422}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BattleGridMech\Private\ButtonConsoleCommandBase.cpp">
+      <Filter>Source\BattleGridMech\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BattleGridMech\Private\ButtonConsoleCommandBase.h">
+      <Filter>Source\BattleGridMech\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BattleGridMech\Private\DebugMenuBase.cpp">
+      <Filter>Source\BattleGridMech\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BattleGridMech\Private\DebugMenuBase.h">
+      <Filter>Source\BattleGridMech\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BattleGridMech\Private\MenuWidgetBase.cpp">
+      <Filter>Source\BattleGridMech\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BattleGridMech\Private\MenuWidgetBase.h">
+      <Filter>Source\BattleGridMech\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BattleGridMech\Private\PawnBase.cpp">
+      <Filter>Source\BattleGridMech\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BattleGridMech\Private\PawnBase.h">
+      <Filter>Source\BattleGridMech\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BattleGridMech\Private\PlayerControllerBase.cpp">
+      <Filter>Source\BattleGridMech\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BattleGridMech\Private\PlayerControllerBase.h">
+      <Filter>Source\BattleGridMech\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BattleGridMech\Private\TabConsoleCommandBase.cpp">
+      <Filter>Source\BattleGridMech\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BattleGridMech\Private\TabConsoleCommandBase.h">
+      <Filter>Source\BattleGridMech\Private</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
